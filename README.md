@@ -4,7 +4,8 @@ Data and analysis associated with Ecosphere submission
 
 # Analysis 
 All analysis is combined in "Ecosphere Spring Legacies MS Analysis.Rmd"
-with that file: 
+
+within that file: 
 1. VWC (0-20 cm)
 2. GCC
 3. Efflux
@@ -12,6 +13,8 @@ with that file:
 5. PRS N
 6. Sentek (0-50 cm VWC)
 7. Precipitation 
+
+(See annotations in code for more)
 
 # Data files
 ### SGS_SLs_20cmVWC_all.csv
