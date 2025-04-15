@@ -861,7 +861,7 @@ anpp.plot
 ### 5. PRS N
 ```{r PRS data setup, include=FALSE}
 # Read in data
-prs.dat<-read.csv('SGS_SLs_PRS_droppedlow.csv')
+prs.dat<-read.csv('SGS_SLs_PRS_NO3droppedlow.csv')
 str(prs.dat)
 
 # Assign UniqueID's
@@ -933,7 +933,7 @@ NO3.plot<-ggplot(data=gr_dat,aes(x=TRT,y=av,fill=TRT,color=TRT))+
                        type=c("#698696","#1f2d40","#ab4e37"),
                        labels=c("A","A+De","De+Dr")
                        )+
-  ylab(expression(bold(atop("PRS Probe Uptake of NO"[3],"(µg 10cm"^-1*" 2 month burial"^-1*")"))))+
+  ylab(expression(bold(atop("PRS Probe Uptake of NO"[3],"(µg 10cm"^-2*" 2 month burial"^-1*")"))))+
   xlab("")+
   scale_x_discrete(labels=c("A","A+De","Dr+De"))+
   scale_y_continuous(

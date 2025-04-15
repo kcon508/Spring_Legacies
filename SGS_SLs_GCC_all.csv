@@ -1,961 +1,961 @@
-﻿Date,Plot,Trt,TrtName,NewTrt,GCC,Drop,Outlier_Notes,Notes
-5/2/21,2,3,ambient (no del),amb,0.333628,n,,
-5/2/21,3,1,drought,dry w/ deluge,0.334916,n,,
-5/2/21,4,2,wet,amb w/ deluge,0.335446,n,,
-5/2/21,5,1,drought,dry w/ deluge,0.3375085,n,,"Cropped flag out of lower corner (small portion of image, maybe 2% missing)"
-5/2/21,6,3,ambient (no del),amb,0.338314,n,,
-5/2/21,9,3,ambient (no del),amb,0.3365077,n,,"Cropped flag out of lower corner (small portion of image, maybe 2% missing)"
-5/2/21,10,2,wet,amb w/ deluge,0.336135,n,,
-5/2/21,11,2,wet,amb w/ deluge,0.3388426,n,,
-5/2/21,12,4,ambient (w/ del),amb,0.3405487,n,,
-5/2/21,13,2,wet,amb w/ deluge,0.3353023,n,,
-5/2/21,14,1,drought,dry w/ deluge,0.3369823,n,,
-5/2/21,15,1,drought,dry w/ deluge,0.3374494,n,,
-5/2/21,16,2,wet,amb w/ deluge,0.3369989,n,,
-5/2/21,18,3,ambient (no del),amb,0.3366269,n,,
-5/2/21,19,1,drought,dry w/ deluge,0.3359227,n,,"Cropped flag out of lower corner (small portion of image, maybe 2-3% missing)"
-5/2/21,20,2,wet,amb w/ deluge,0.3389981,n,,
-5/2/21,21,4,ambient (w/ del),amb,0.3389985,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,22,1,drought,dry w/ deluge,0.3380224,n,,"Cropped flag out of lower corner (small portion of image, maybe 2% missing)"
-5/2/21,23,4,ambient (w/ del),amb,0.3404764,n,,
-5/2/21,24,2,wet,amb w/ deluge,0.3395736,n,,
-5/2/21,26,4,ambient (w/ del),amb,0.3391589,n,,
-5/2/21,28,3,ambient (no del),amb,0.3357018,n,,
-5/2/21,29,4,ambient (w/ del),amb,0.3368629,n,,
-5/2/21,30,2,wet,amb w/ deluge,0.3361904,n,,
-5/2/21,31,3,ambient (no del),amb,0.3364861,n,,
-5/2/21,32,4,ambient (w/ del),amb,0.3383973,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,33,1,drought,dry w/ deluge,0.3386747,n,,
-5/2/21,34,3,ambient (no del),amb,0.3379048,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,35,4,ambient (w/ del),amb,0.3372727,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,37,2,wet,amb w/ deluge,0.3378389,n,,
-5/2/21,38,1,drought,dry w/ deluge,0.3351899,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,39,3,ambient (no del),amb,0.3402602,n,,
-5/2/21,41,1,drought,dry w/ deluge,0.3356467,n,,
-5/2/21,42,3,ambient (no del),amb,0.3372708,n,,
-5/2/21,43,3,ambient (no del),amb,0.3371104,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,44,2,wet,amb w/ deluge,0.3378159,n,,
-5/2/21,45,4,ambient (w/ del),amb,0.3373064,n,,
-5/2/21,47,4,ambient (w/ del),amb,0.3367985,n,,
-5/2/21,49,1,drought,dry w/ deluge,0.3393101,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-5/2/21,50,4,ambient (w/ del),amb,0.3378614,n,,
-5/7/21,2,3,ambient (no del),amb,0.3303574,n,,
-5/7/21,3,1,drought,dry w/ deluge,0.3285392,n,,"Cropped flag out of lower corner (small portion of image, maybe 2% missing)"
-5/7/21,4,2,wet,amb w/ deluge,0.3233446,n,,
-5/7/21,5,1,drought,dry w/ deluge,0.3320529,n,,"Image very crooked like phone tilted, may be distorted"
-5/7/21,6,3,ambient (no del),amb,0.3255439,n,,
-5/7/21,9,3,ambient (no del),amb,0.3262757,n,,
-5/7/21,10,2,wet,amb w/ deluge,0.3253983,n,,
-5/7/21,11,2,wet,amb w/ deluge,0.3290747,n,,
-5/7/21,12,4,ambient (w/ del),amb,0.3267202,n,,
-5/7/21,13,2,wet,amb w/ deluge,0.3248876,n,,
-5/7/21,14,1,drought,dry w/ deluge,0.3385736,n,,
-5/7/21,15,1,drought,dry w/ deluge,0.337779,n,,
-5/7/21,16,2,wet,amb w/ deluge,0.3347096,n,,
-5/7/21,18,3,ambient (no del),amb,0.3349924,n,,
-5/7/21,19,1,drought,dry w/ deluge,0.3340793,n,,
-5/7/21,20,2,wet,amb w/ deluge,0.3346969,n,,
-5/7/21,21,4,ambient (w/ del),amb,0.3370081,n,,
-5/7/21,22,1,drought,dry w/ deluge,0.3383602,n,,
-5/7/21,23,4,ambient (w/ del),amb,0.3378386,n,,
-5/7/21,24,2,wet,amb w/ deluge,0.335045,n,,
-5/7/21,26,4,ambient (w/ del),amb,0.3344741,n,,
-5/7/21,28,3,ambient (no del),amb,0.3347822,n,,
-5/7/21,29,4,ambient (w/ del),amb,0.3366326,n,,
-5/7/21,30,2,wet,amb w/ deluge,0.3318789,n,,
-5/7/21,31,3,ambient (no del),amb,0.3353311,n,,
-5/7/21,32,4,ambient (w/ del),amb,0.3341758,n,,
-5/7/21,33,1,drought,dry w/ deluge,0.3428174,n,,
-5/7/21,34,3,ambient (no del),amb,0.3370578,n,,
-5/7/21,35,4,ambient (w/ del),amb,0.3406096,n,,
-5/7/21,37,2,wet,amb w/ deluge,0.3357962,n,,
-5/7/21,38,1,drought,dry w/ deluge,0.3432704,n,,"Image very crooked like phone tilted, may be distorted"
-5/7/21,39,3,ambient (no del),amb,0.3371761,n,,
-5/7/21,41,1,drought,dry w/ deluge,0.3376217,n,,"Image very crooked like phone tilted, may be distorted"
-5/7/21,42,3,ambient (no del),amb,0.3320037,n,,
-5/7/21,43,3,ambient (no del),amb,0.3351118,n,,Cropped part of flag out of upper corner (<2% missing)
-5/7/21,44,2,wet,amb w/ deluge,0.3347007,n,,
-5/7/21,45,4,ambient (w/ del),amb,0.3383365,n,,
-5/7/21,47,4,ambient (w/ del),amb,0.3350647,n,,
-5/7/21,49,1,drought,dry w/ deluge,0.3430486,n,,"Image very crooked like phone tilted, may be distorted; also cropped flag out of upper corner (<2% of image missing)"
-5/7/21,50,4,ambient (w/ del),amb,0.341756,n,,
-5/18/21,2,3,ambient (no del),amb,0.3551437,n,,"Image slightly crooked from tilted phone, also cropped flag out of upper corner (<2% missing)"
-5/18/21,3,1,drought,dry w/ deluge,0.3540633,n,,"Image slightly crooked from tilted phone, also cropped flag out of lower corner (<2% missing)"
-5/18/21,4,2,wet,amb w/ deluge,0.3388777,n,,
-5/18/21,5,1,drought,dry w/ deluge,0.3409826,n,,"Image very crooked like phone tilted, may be distorted"
-5/18/21,6,3,ambient (no del),amb,0.3413553,n,,
-5/18/21,9,3,ambient (no del),amb,0.3365443,n,,
-5/18/21,10,2,wet,amb w/ deluge,0.3432798,n,,
-5/18/21,11,2,wet,amb w/ deluge,0.3476073,n,,
-5/18/21,12,4,ambient (w/ del),amb,0.3498405,n,,
-5/18/21,13,2,wet,amb w/ deluge,0.3417475,n,,
-5/18/21,14,1,drought,dry w/ deluge,0.3628535,n,,
-5/18/21,15,1,drought,dry w/ deluge,0.3451174,n,,"Image very crooked like phone tilted, may be distorted"
-5/18/21,16,2,wet,amb w/ deluge,0.3427241,n,,"Cropped portion of flag from lower corner/side, ~2-3% of image missing"
-5/18/21,18,3,ambient (no del),amb,0.3386493,n,,
-5/18/21,19,1,drought,dry w/ deluge,0.3374082,n,,"Image very crooked like phone tilted, may be distorted"
-5/18/21,20,2,wet,amb w/ deluge,0.3433294,n,,
-5/18/21,21,4,ambient (w/ del),amb,0.3486897,n,,
-5/18/21,22,1,drought,dry w/ deluge,0.3416196,n,,"Image very crooked like phone tilted, may be distorted"
-5/18/21,23,4,ambient (w/ del),amb,0.3441651,n,,
-5/18/21,24,2,wet,amb w/ deluge,0.3426978,n,,
-5/18/21,26,4,ambient (w/ del),amb,0.3465596,n,,
-5/18/21,28,3,ambient (no del),amb,0.3350844,n,,
-5/18/21,29,4,ambient (w/ del),amb,0.3385731,n,,
-5/18/21,30,2,wet,amb w/ deluge,0.3327603,n,,
-5/18/21,31,3,ambient (no del),amb,0.3402817,n,,
-5/18/21,32,4,ambient (w/ del),amb,0.3382794,n,,
-5/18/21,33,1,drought,dry w/ deluge,0.3447546,n,,
-5/18/21,34,3,ambient (no del),amb,0.3377044,n,,Cropped part of flag out of upper corner (<2% missing)
-5/18/21,35,4,ambient (w/ del),amb,0.3441004,n,,
-5/18/21,37,2,wet,amb w/ deluge,0.3411554,n,,
-5/18/21,38,1,drought,dry w/ deluge,0.3519034,n,,Cropped part of flag out of upper corner (<2% missing); image slightly crooked
-5/18/21,39,3,ambient (no del),amb,0.3434459,n,,
-5/18/21,41,1,drought,dry w/ deluge,0.346304,n,,"Image very crooked like phone tilted, may be distorted"
-5/18/21,42,3,ambient (no del),amb,0.3393586,n,,
-5/18/21,43,3,ambient (no del),amb,0.3424759,n,,
-5/18/21,44,2,wet,amb w/ deluge,0.3396346,n,,
-5/18/21,45,4,ambient (w/ del),amb,0.3359094,n,,
-5/18/21,47,4,ambient (w/ del),amb,0.335928,n,,
-5/18/21,49,1,drought,dry w/ deluge,0.3527402,n,,"Image slightly crooked from tilted phone, also cropped flag out of upper corner (<2% missing)"
-5/18/21,50,4,ambient (w/ del),amb,0.3444033,n,,
-5/24/21,2,3,ambient (no del),amb,0.3642321,n,,
-5/24/21,3,1,drought,dry w/ deluge,0.3643314,n,,"Image very crooked like phone tilted, may be distorted"
-5/24/21,4,2,wet,amb w/ deluge,0.3467316,n,,
-5/24/21,5,1,drought,dry w/ deluge,0.3472405,n,,"Image very crooked like phone tilted, may be distorted"
-5/24/21,6,3,ambient (no del),amb,0.34498,n,,
-5/24/21,9,3,ambient (no del),amb,0.3412077,n,,
-5/24/21,10,2,wet,amb w/ deluge,0.3523421,n,,
-5/24/21,11,2,wet,amb w/ deluge,0.3533895,n,,
-5/24/21,12,4,ambient (w/ del),amb,0.3516214,n,,
-5/24/21,13,2,wet,amb w/ deluge,0.3496705,n,,
-5/24/21,14,1,drought,dry w/ deluge,0.3692882,n,,"Image very crooked like phone tilted, may be distorted"
-5/24/21,15,1,drought,dry w/ deluge,0.3588971,n,,
-5/24/21,16,2,wet,amb w/ deluge,0.348694,n,,
-5/24/21,18,3,ambient (no del),amb,0.3442422,n,,
-5/24/21,19,1,drought,dry w/ deluge,0.3406404,n,,"Image very crooked like phone tilted, may be distorted"
-5/24/21,20,2,wet,amb w/ deluge,0.3462125,n,,
-5/24/21,21,4,ambient (w/ del),amb,0.3501957,n,,
-5/24/21,22,1,drought,dry w/ deluge,0.343004,n,,
-5/24/21,23,4,ambient (w/ del),amb,0.3482075,n,,
-5/24/21,24,2,wet,amb w/ deluge,0.3486479,n,,
-5/24/21,26,4,ambient (w/ del),amb,0.3553329,n,,
-5/24/21,28,3,ambient (no del),amb,0.3352196,n,,
-5/24/21,29,4,ambient (w/ del),amb,0.3385418,n,,
-5/24/21,30,2,wet,amb w/ deluge,0.3375481,n,,
-5/24/21,31,3,ambient (no del),amb,0.3385152,n,,
-5/24/21,32,4,ambient (w/ del),amb,0.3366159,n,,
-5/24/21,33,1,drought,dry w/ deluge,NA,y,,Image missing – never cropped
-5/24/21,34,3,ambient (no del),amb,0.339755,n,,
-5/24/21,35,4,ambient (w/ del),amb,0.3464938,n,,
-5/24/21,37,2,wet,amb w/ deluge,0.3453548,n,,
-5/24/21,38,1,drought,dry w/ deluge,0.3465585,n,,
-5/24/21,39,3,ambient (no del),amb,NA,y,,Image missing – never cropped
-5/24/21,41,1,drought,dry w/ deluge,0.3618463,n,,"Image very crooked like phone tilted, may be distorted"
-5/24/21,42,3,ambient (no del),amb,0.3381861,n,,
-5/24/21,43,3,ambient (no del),amb,0.3448632,n,,
-5/24/21,44,2,wet,amb w/ deluge,0.3417681,n,,
-5/24/21,45,4,ambient (w/ del),amb,0.3385324,n,,
-5/24/21,47,4,ambient (w/ del),amb,0.3393404,n,,
-5/24/21,49,1,drought,dry w/ deluge,0.3609333,n,,"Image very crooked like phone tilted, may be distorted"
-5/24/21,50,4,ambient (w/ del),amb,0.3454848,n,,
-6/2/21,2,3,ambient (no del),amb,0.3920516,n,,
-6/2/21,3,1,drought,dry w/ deluge,0.4129038,y,,"Image very crooked like phone tilted, may be distorted; also cropped flag out of lower corner (<2% of image missing)"
-6/2/21,4,2,wet,amb w/ deluge,0.3763964,n,,
-6/2/21,5,1,drought,dry w/ deluge,0.3687925,n,,"Image very crooked like phone tilted, may be distorted"
-6/2/21,6,3,ambient (no del),amb,0.3639112,n,,
-6/2/21,9,3,ambient (no del),amb,0.3585099,n,,
-6/2/21,10,2,wet,amb w/ deluge,0.384289,n,,
-6/2/21,11,2,wet,amb w/ deluge,0.3785901,n,,
-6/2/21,12,4,ambient (w/ del),amb,0.3761725,n,,
-6/2/21,13,2,wet,amb w/ deluge,0.3742934,n,,
-6/2/21,14,1,drought,dry w/ deluge,0.4047121,n,,"Image very crooked like phone tilted, may be distorted; also cropped flag out of lower corner (<2% of image missing)"
-6/2/21,15,1,drought,dry w/ deluge,0.3661309,n,,"Image very crooked from tilted phone, also cropped flag out of upper corner (<2% missing)"
-6/2/21,16,2,wet,amb w/ deluge,0.3697902,n,,
-6/2/21,18,3,ambient (no del),amb,0.3671549,n,,
-6/2/21,19,1,drought,dry w/ deluge,0.3421471,n,,
-6/2/21,20,2,wet,amb w/ deluge,0.3677031,n,,
-6/2/21,21,4,ambient (w/ del),amb,0.3735713,n,,
-6/2/21,22,1,drought,dry w/ deluge,0.3629373,n,,"Image very crooked like phone tilted, may be distorted, back half of plot photo very dark shadowed"
-6/2/21,23,4,ambient (w/ del),amb,0.3665061,n,,
-6/2/21,24,2,wet,amb w/ deluge,0.3662728,n,,"Cropped flag out of lower corner (small portion of image, <2% missing)"
-6/2/21,26,4,ambient (w/ del),amb,0.3825512,n,,
-6/2/21,28,3,ambient (no del),amb,NA,y,,Image missing – never cropped
-6/2/21,29,4,ambient (w/ del),amb,0.3543423,n,,
-6/2/21,30,2,wet,amb w/ deluge,0.3642202,n,,
-6/2/21,31,3,ambient (no del),amb,0.3504968,n,,
-6/2/21,32,4,ambient (w/ del),amb,0.3527545,n,,
-6/2/21,33,1,drought,dry w/ deluge,0.3599354,n,,"Image very crooked like phone tilted, may be distorted"
-6/2/21,34,3,ambient (no del),amb,0.3617983,n,,
-6/2/21,35,4,ambient (w/ del),amb,NA,y,,Image missing – never cropped
-6/2/21,37,2,wet,amb w/ deluge,0.3617714,n,,
-6/2/21,38,1,drought,dry w/ deluge,NA,y,,Image missing – never cropped
-6/2/21,39,3,ambient (no del),amb,0.3675269,n,,
-6/2/21,41,1,drought,dry w/ deluge,0.3952433,y,,"Image very crooked like phone tilted, LIKELY distorted"
-6/2/21,42,3,ambient (no del),amb,0.3555605,n,,"Image very crooked like phone tilted, may be distorted"
-6/2/21,43,3,ambient (no del),amb,0.3653629,n,,
-6/2/21,44,2,wet,amb w/ deluge,0.3617861,n,,
-6/2/21,45,4,ambient (w/ del),amb,0.3514124,n,,
-6/2/21,47,4,ambient (w/ del),amb,0.3656943,n,,
-6/2/21,49,1,drought,dry w/ deluge,0.3823557,n,,"Image very crooked like phone tilted, may be distorted"
-6/2/21,50,4,ambient (w/ del),amb,0.3705593,n,,
-6/7/21,2,3,ambient (no del),amb,0.3904447,n,,
-6/7/21,3,1,drought,dry w/ deluge,0.3922463,y,,"Image very crooked like phone tilted, LIKELY distorted and flag cropped out of one corner (<2% of image)"
-6/7/21,4,2,wet,amb w/ deluge,0.3734183,n,,
-6/7/21,5,1,drought,dry w/ deluge,0.3641158,n,,"Image very crooked like phone tilted, may be distorted and heavy shadows around edged of plot and from ridges of roof and my own shadow taking the photo"
-6/7/21,6,3,ambient (no del),amb,0.3643144,n,,
-6/7/21,9,3,ambient (no del),amb,0.3638798,n,,
-6/7/21,10,2,wet,amb w/ deluge,0.373455,n,,
-6/7/21,11,2,wet,amb w/ deluge,0.3703648,n,,
-6/7/21,12,4,ambient (w/ del),amb,0.3769459,n,,
-6/7/21,13,2,wet,amb w/ deluge,0.3706016,n,,
-6/7/21,14,1,drought,dry w/ deluge,0.379285,n,,"Image very crooked like phone tilted, may be distorted"
-6/7/21,15,1,drought,dry w/ deluge,0.3650027,n,,"Image very crooked like phone tilted, may be distorted, back half of plot photo very dark shadowed"
-6/7/21,16,2,wet,amb w/ deluge,0.3711267,n,,
-6/7/21,18,3,ambient (no del),amb,0.3638829,n,,
-6/7/21,19,1,drought,dry w/ deluge,0.3516783,y,,"Image very crooked like phone tilted, LIKELY distorted"
-6/7/21,20,2,wet,amb w/ deluge,0.3660883,n,,
-6/7/21,21,4,ambient (w/ del),amb,0.3731033,n,,
-6/7/21,22,1,drought,dry w/ deluge,0.3524774,n,,"Image very crooked like phone tilted, may be distorted"
-6/7/21,23,4,ambient (w/ del),amb,0.3600634,n,,
-6/7/21,24,2,wet,amb w/ deluge,0.3631913,n,,
-6/7/21,26,4,ambient (w/ del),amb,0.378341,n,,
-6/7/21,28,3,ambient (no del),amb,0.3442436,n,,
-6/7/21,29,4,ambient (w/ del),amb,0.3516442,n,,
-6/7/21,30,2,wet,amb w/ deluge,0.3613636,n,,
-6/7/21,31,3,ambient (no del),amb,0.3507608,n,,
-6/7/21,32,4,ambient (w/ del),amb,0.3474706,n,,
-6/7/21,33,1,drought,dry w/ deluge,0.3551996,n,,Image slightly crooked from tilted phone
-6/7/21,34,3,ambient (no del),amb,0.357953,n,,
-6/7/21,35,4,ambient (w/ del),amb,0.3625413,n,,
-6/7/21,37,2,wet,amb w/ deluge,0.3626309,n,,
-6/7/21,38,1,drought,dry w/ deluge,0.3768463,n,,"Image very crooked like phone tilted, may be distorted"
-6/7/21,39,3,ambient (no del),amb,0.3639924,n,,
-6/7/21,41,1,drought,dry w/ deluge,0.379215,y,,"Image very crooked like phone tilted, LIKELY distorted"
-6/7/21,42,3,ambient (no del),amb,0.3543349,n,,
-6/7/21,43,3,ambient (no del),amb,0.3646446,n,,
-6/7/21,44,2,wet,amb w/ deluge,0.3636929,n,,
-6/7/21,45,4,ambient (w/ del),amb,0.3471926,n,,
-6/7/21,47,4,ambient (w/ del),amb,0.362626,n,,
-6/7/21,49,1,drought,dry w/ deluge,0.3668328,y,,"Image very crooked like phone tilted, LIKELY distorted"
-6/7/21,50,4,ambient (w/ del),amb,0.3625062,n,,Image slightly crooked from tilted phone
-6/14/21,2,3,ambient (no del),amb,0.3984566,n,,
-6/14/21,3,1,drought,dry w/ deluge,0.4192984,y,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,4,2,wet,amb w/ deluge,0.386639,n,,
-6/14/21,5,1,drought,dry w/ deluge,0.3687331,n,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,6,3,ambient (no del),amb,0.3756453,n,,
-6/14/21,9,3,ambient (no del),amb,0.374394,n,,
-6/14/21,10,2,wet,amb w/ deluge,0.3831418,n,,
-6/14/21,11,2,wet,amb w/ deluge,0.3803397,n,,
-6/14/21,12,4,ambient (w/ del),amb,0.3835091,n,,
-6/14/21,13,2,wet,amb w/ deluge,0.3881525,n,,Image slightly crooked from tilted phone
-6/14/21,14,1,drought,dry w/ deluge,0.3705249,n,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,15,1,drought,dry w/ deluge,0.3676525,n,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,16,2,wet,amb w/ deluge,0.3833278,n,,
-6/14/21,18,3,ambient (no del),amb,0.3790898,n,,
-6/14/21,19,1,drought,dry w/ deluge,0.3557617,n,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,20,2,wet,amb w/ deluge,0.3761289,n,,
-6/14/21,21,4,ambient (w/ del),amb,0.380358,n,,
-6/14/21,22,1,drought,dry w/ deluge,0.3626242,n,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,23,4,ambient (w/ del),amb,0.3670251,n,,
-6/14/21,24,2,wet,amb w/ deluge,0.3757735,n,,
-6/14/21,26,4,ambient (w/ del),amb,0.391328,n,,
-6/14/21,28,3,ambient (no del),amb,0.3558817,n,,
-6/14/21,29,4,ambient (w/ del),amb,0.3637944,n,,
-6/14/21,30,2,wet,amb w/ deluge,0.3713801,n,,
-6/14/21,31,3,ambient (no del),amb,0.3587058,n,,
-6/14/21,32,4,ambient (w/ del),amb,0.3578467,n,,
-6/14/21,33,1,drought,dry w/ deluge,0.3535582,y,,"Image very crooked like phone tilted, LIKELY distorted"
-6/14/21,34,3,ambient (no del),amb,0.3670885,n,,
-6/14/21,35,4,ambient (w/ del),amb,0.3748454,n,,
-6/14/21,37,2,wet,amb w/ deluge,0.3697259,n,,
-6/14/21,38,1,drought,dry w/ deluge,0.3704401,n,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,39,3,ambient (no del),amb,0.3707066,n,,
-6/14/21,41,1,drought,dry w/ deluge,0.385462,y,,"Image very crooked like phone tilted, may be distorted"
-6/14/21,42,3,ambient (no del),amb,0.3681279,n,,
-6/14/21,43,3,ambient (no del),amb,0.3733959,n,,
-6/14/21,44,2,wet,amb w/ deluge,0.3712415,n,,
-6/14/21,45,4,ambient (w/ del),amb,0.358165,n,,
-6/14/21,47,4,ambient (w/ del),amb,0.379049,n,,
-6/14/21,49,1,drought,dry w/ deluge,0.3665644,n,,Image slightly crooked from tilted phone
-6/14/21,50,4,ambient (w/ del),amb,0.3759378,n,,
-6/21/21,2,3,ambient (no del),amb,0.378115,n,,
-6/21/21,3,1,drought,dry w/ deluge,0.3767926,y,,"Image very crooked like phone tilted, LIKELY distorted"
-6/21/21,4,2,wet,amb w/ deluge,0.3681114,n,,
-6/21/21,5,1,drought,dry w/ deluge,0.362828,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,6,3,ambient (no del),amb,0.3638644,n,,
-6/21/21,9,3,ambient (no del),amb,0.3631712,n,,
-6/21/21,10,2,wet,amb w/ deluge,0.355147,n,,
-6/21/21,11,2,wet,amb w/ deluge,0.3603263,n,,
-6/21/21,12,4,ambient (w/ del),amb,0.3691603,n,,
-6/21/21,13,2,wet,amb w/ deluge,0.362762,n,,
-6/21/21,14,1,drought,dry w/ deluge,0.3591416,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,15,1,drought,dry w/ deluge,0.3520804,y,,"Image very crooked like phone tilted, AND cropped a lot of extra(?) from quadrat like good portion of bottom of image appears to be missing"
-6/21/21,16,2,wet,amb w/ deluge,0.3670298,n,,
-6/21/21,18,3,ambient (no del),amb,0.3604145,n,,
-6/21/21,19,1,drought,dry w/ deluge,0.3473551,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,20,2,wet,amb w/ deluge,0.3609997,n,,
-6/21/21,21,4,ambient (w/ del),amb,0.3647063,n,,
-6/21/21,22,1,drought,dry w/ deluge,0.3597358,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,23,4,ambient (w/ del),amb,0.3578026,n,,
-6/21/21,24,2,wet,amb w/ deluge,0.3587162,n,,
-6/21/21,26,4,ambient (w/ del),amb,0.3638648,n,,
-6/21/21,28,3,ambient (no del),amb,0.3498378,n,,
-6/21/21,29,4,ambient (w/ del),amb,0.3575174,n,,Flowering cactus ~2% of photo yellow flower
-6/21/21,30,2,wet,amb w/ deluge,0.3565906,n,,Cropped bottom corner off
-6/21/21,31,3,ambient (no del),amb,0.3555989,n,,
-6/21/21,32,4,ambient (w/ del),amb,0.3536343,n,,
-6/21/21,33,1,drought,dry w/ deluge,0.3549685,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,34,3,ambient (no del),amb,0.3552747,n,,
-6/21/21,35,4,ambient (w/ del),amb,0.3563534,n,,Cropped flag from upper corner (~2% of photo missing)
-6/21/21,37,2,wet,amb w/ deluge,0.3567602,n,,
-6/21/21,38,1,drought,dry w/ deluge,0.3581726,n,,Image slightly crooked from tilted phone
-6/21/21,39,3,ambient (no del),amb,0.3537807,n,,
-6/21/21,41,1,drought,dry w/ deluge,0.3741047,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,42,3,ambient (no del),amb,0.3575359,n,,
-6/21/21,43,3,ambient (no del),amb,0.3616096,n,,
-6/21/21,44,2,wet,amb w/ deluge,0.3616584,n,,
-6/21/21,45,4,ambient (w/ del),amb,0.351577,n,,
-6/21/21,47,4,ambient (w/ del),amb,0.3633503,n,,
-6/21/21,49,1,drought,dry w/ deluge,0.3612445,n,,"Image very crooked like phone tilted, may be distorted"
-6/21/21,50,4,ambient (w/ del),amb,NA,y,,Image missing – never cropped
-6/27/21,2,3,ambient (no del),amb,0.3814856,n,,Yellow flower in upper corner of photo (~10% of photo)
-6/27/21,3,1,drought,dry w/ deluge,0.375504,n,,"Image very crooked like phone tilted, may be distorted"
-6/27/21,4,2,wet,amb w/ deluge,0.365605,n,,
-6/27/21,5,1,drought,dry w/ deluge,0.3644053,n,,Image slightly crooked from tilted phone
-6/27/21,6,3,ambient (no del),amb,0.3559211,n,,
-6/27/21,9,3,ambient (no del),amb,0.3585448,n,,
-6/27/21,10,2,wet,amb w/ deluge,0.350757,n,,
-6/27/21,11,2,wet,amb w/ deluge,0.3549072,n,,
-6/27/21,12,4,ambient (w/ del),amb,0.3610325,n,,
-6/27/21,13,2,wet,amb w/ deluge,0.3545601,n,,
-6/27/21,14,1,drought,dry w/ deluge,0.3529527,n,,Image slightly crooked from tilted phone
-6/27/21,15,1,drought,dry w/ deluge,0.3509501,n,,"Image slightly crooked from tilted phone, also cropped flag out of lower corner (<2% missing)"
-6/27/21,16,2,wet,amb w/ deluge,0.360625,n,,
-6/27/21,18,3,ambient (no del),amb,0.3582977,n,,
-6/27/21,19,1,drought,dry w/ deluge,0.3442136,n,,
-6/27/21,20,2,wet,amb w/ deluge,0.3566862,n,,
-6/27/21,21,4,ambient (w/ del),amb,0.3604555,n,,
-6/27/21,22,1,drought,dry w/ deluge,0.3627495,n,,Image slightly crooked from tilted phone
-6/27/21,23,4,ambient (w/ del),amb,0.3577419,n,,
-6/27/21,24,2,wet,amb w/ deluge,0.3567414,n,,
-6/27/21,26,4,ambient (w/ del),amb,0.3646044,n,,
-6/27/21,28,3,ambient (no del),amb,0.3433286,n,,
-6/27/21,29,4,ambient (w/ del),amb,0.3536264,n,,
-6/27/21,30,2,wet,amb w/ deluge,NA,y,,Image missing – never cropped
-6/27/21,31,3,ambient (no del),amb,0.3505379,n,,
-6/27/21,32,4,ambient (w/ del),amb,NA,y,,Image missing – never cropped
-6/27/21,33,1,drought,dry w/ deluge,0.3505349,n,,Image slightly crooked from tilted phone
-6/27/21,34,3,ambient (no del),amb,0.3496599,n,,
-6/27/21,35,4,ambient (w/ del),amb,0.3565244,n,,Cropped flag out of portion of upper corner (~5% of photo missing)
-6/27/21,37,2,wet,amb w/ deluge,0.3494989,n,,
-6/27/21,38,1,drought,dry w/ deluge,0.3619362,n,,"Image very crooked like phone tilted, may be distorted"
-6/27/21,39,3,ambient (no del),amb,0.3510588,n,,
-6/27/21,41,1,drought,dry w/ deluge,0.3690121,n,,"Image very crooked like phone tilted, may be distorted"
-6/27/21,42,3,ambient (no del),amb,0.3608634,n,,
-6/27/21,43,3,ambient (no del),amb,0.3633154,n,,
-6/27/21,44,2,wet,amb w/ deluge,0.3615631,n,,
-6/27/21,45,4,ambient (w/ del),amb,0.3525432,n,,
-6/27/21,47,4,ambient (w/ del),amb,0.3640671,n,,
-6/27/21,49,1,drought,dry w/ deluge,0.3608224,n,,
-6/27/21,50,4,ambient (w/ del),amb,0.3568687,n,,
-7/5/21,2,3,ambient (no del),amb,0.3875851,n,,
-7/5/21,3,1,drought,dry w/ deluge,0.4067778,y,,"Image very crooked like phone tilted, LIKELY distorted"
-7/5/21,4,2,wet,amb w/ deluge,0.380577,n,,
-7/5/21,5,1,drought,dry w/ deluge,NA,y,,missing
-7/5/21,6,3,ambient (no del),amb,0.3843283,n,,
-7/5/21,9,3,ambient (no del),amb,0.3872724,n,,
-7/5/21,10,2,wet,amb w/ deluge,0.3679472,n,,
-7/5/21,11,2,wet,amb w/ deluge,0.3675812,n,,
-7/5/21,12,4,ambient (w/ del),amb,0.3758057,n,,
-7/5/21,13,2,wet,amb w/ deluge,0.3839115,n,,
-7/5/21,14,1,drought,dry w/ deluge,0.3540573,n,,"image very crooked like phone tilted, may be distorted"
-7/5/21,15,1,drought,dry w/ deluge,0.3559313,n,,"image very crooked like phone tilted, may be distorted"
-7/5/21,16,2,wet,amb w/ deluge,0.3817703,n,,
-7/5/21,18,3,ambient (no del),amb,0.3825366,n,,
-7/5/21,19,1,drought,dry w/ deluge,0.3458156,n,,"image very crooked like phone tilted, may be distorted"
-7/5/21,20,2,wet,amb w/ deluge,0.3701353,n,,
-7/5/21,21,4,ambient (w/ del),amb,0.3800044,n,,
-7/5/21,22,1,drought,dry w/ deluge,0.3743334,n,,Image slightly crooked from tilted phone
-7/5/21,23,4,ambient (w/ del),amb,NA,y,,missing
-7/5/21,24,2,wet,amb w/ deluge,NA,y,,missing
-7/5/21,26,4,ambient (w/ del),amb,NA,y,,missing
-7/5/21,28,3,ambient (no del),amb,0.361798,n,,
-7/5/21,29,4,ambient (w/ del),amb,NA,y,,missing
-7/5/21,30,2,wet,amb w/ deluge,0.3823054,n,,
-7/5/21,31,3,ambient (no del),amb,0.3831211,n,,
-7/5/21,32,4,ambient (w/ del),amb,0.3684696,n,,
-7/5/21,33,1,drought,dry w/ deluge,0.3694519,n,,"image very crooked like phone tilted, may be distorted; part of flag cropped from upper corner"
-7/5/21,34,3,ambient (no del),amb,0.3714146,n,,
-7/5/21,35,4,ambient (w/ del),amb,0.3757267,n,,
-7/5/21,37,2,wet,amb w/ deluge,0.3684027,n,,
-7/5/21,38,1,drought,dry w/ deluge,0.3559102,n,,"image very crooked like phone tilted, may be distorted"
-7/5/21,39,3,ambient (no del),amb,0.3551303,n,,
-7/5/21,41,1,drought,dry w/ deluge,0.3679958,n,,"image very crooked like phone tilted, may be distorted"
-7/5/21,42,3,ambient (no del),amb,0.3799936,n,,
-7/5/21,43,3,ambient (no del),amb,0.374752,n,,
-7/5/21,44,2,wet,amb w/ deluge,0.3747173,n,,image slightly crooked from tilted phone
-7/5/21,45,4,ambient (w/ del),amb,0.3708623,n,,
-7/5/21,47,4,ambient (w/ del),amb,0.3872388,n,,
-7/5/21,49,1,drought,dry w/ deluge,NA,y,,missing
-7/5/21,50,4,ambient (w/ del),amb,0.3695527,n,,
-7/12/21,2,3,ambient (no del),amb,0.3836463,n,,
-7/12/21,3,1,drought,dry w/ deluge,0.4050146,y,,"Image very crooked like phone tilted, may be distorted"
-7/12/21,4,2,wet,amb w/ deluge,0.3776024,n,,
-7/12/21,5,1,drought,dry w/ deluge,0.3560992,n,,"Image very crooked like phone tilted, may be distorted"
-7/12/21,6,3,ambient (no del),amb,0.3807018,n,,
-7/12/21,9,3,ambient (no del),amb,NA,y,,Image missing - never cropped
-7/12/21,10,2,wet,amb w/ deluge,0.3672715,n,,
-7/12/21,11,2,wet,amb w/ deluge,0.3656674,n,,
-7/12/21,12,4,ambient (w/ del),amb,0.3786265,n,,
-7/12/21,13,2,wet,amb w/ deluge,0.3939396,n,,
-7/12/21,14,1,drought,dry w/ deluge,0.3512209,n,,"Image very crooked like phone tilted, may be distorted"
-7/12/21,15,1,drought,dry w/ deluge,0.3451496,n,,"Image very crooked like phone tilted, may be distorted"
-7/12/21,16,2,wet,amb w/ deluge,0.376767,n,,
-7/12/21,18,3,ambient (no del),amb,NA,y,,Image missing - never cropped
-7/12/21,19,1,drought,dry w/ deluge,0.3505881,n,,Image slightly crooked from tilted phone
-7/12/21,20,2,wet,amb w/ deluge,0.3699422,n,,
-7/12/21,21,4,ambient (w/ del),amb,0.3792373,n,,
-7/12/21,22,1,drought,dry w/ deluge,0.3707734,n,,Image slightly crooked from tilted phone
-7/12/21,23,4,ambient (w/ del),amb,0.3748982,n,,
-7/12/21,24,2,wet,amb w/ deluge,0.3807574,n,,
-7/12/21,26,4,ambient (w/ del),amb,0.3706211,n,,
-7/12/21,28,3,ambient (no del),amb,0.3697105,n,,"Image slightly crooked from tilted phone, parts of image look blurry but other parts clear so unclear if the blurry area is really blurry or from Plantago flower fuzz"
-7/12/21,29,4,ambient (w/ del),amb,0.3726875,n,,
-7/12/21,30,2,wet,amb w/ deluge,0.3862397,n,,
-7/12/21,31,3,ambient (no del),amb,0.384326,n,,
-7/12/21,32,4,ambient (w/ del),amb,0.3845388,n,,
-7/12/21,33,1,drought,dry w/ deluge,0.358451,n,,"Image very crooked like phone tilted, may be distorted"
-7/12/21,34,3,ambient (no del),amb,0.3758538,n,,
-7/12/21,35,4,ambient (w/ del),amb,0.3682607,n,,
-7/12/21,37,2,wet,amb w/ deluge,0.3653122,n,,
-7/12/21,38,1,drought,dry w/ deluge,0.3553222,n,,"Image very crooked like phone tilted, may be distorted"
-7/12/21,39,3,ambient (no del),amb,0.3655073,n,,Cropped off some extra area on the edge of the plot - likely a flag or trash in the plot area. <2% of image missing
-7/12/21,41,1,drought,dry w/ deluge,0.3557121,n,,Image slightly crooked from tilted phone
-7/12/21,42,3,ambient (no del),amb,0.3852103,n,,
-7/12/21,43,3,ambient (no del),amb,0.3785652,n,,
-7/12/21,44,2,wet,amb w/ deluge,0.3807542,n,,
-7/12/21,45,4,ambient (w/ del),amb,0.3654582,n,,
-7/12/21,47,4,ambient (w/ del),amb,0.3893551,n,,
-7/12/21,49,1,drought,dry w/ deluge,0.3649875,n,,Image slightly crooked from tilted phone
-7/12/21,50,4,ambient (w/ del),amb,0.3704044,n,,
-7/20/21,2,3,ambient (no del),amb,0.3829787,n,,
-7/20/21,3,1,drought,dry w/ deluge,NA,y,,Image missing – never cropped
-7/20/21,4,2,wet,amb w/ deluge,0.3899962,n,,
-7/20/21,5,1,drought,dry w/ deluge,0.3554772,n,,
-7/20/21,6,3,ambient (no del),amb,0.3871463,n,,
-7/20/21,9,3,ambient (no del),amb,0.3949529,n,,
-7/20/21,10,2,wet,amb w/ deluge,0.3837332,n,,
-7/20/21,11,2,wet,amb w/ deluge,0.3728845,n,,
-7/20/21,12,4,ambient (w/ del),amb,0.3820596,n,,
-7/20/21,13,2,wet,amb w/ deluge,0.4051123,n,,
-7/20/21,14,1,drought,dry w/ deluge,0.3514753,n,,
-7/20/21,15,1,drought,dry w/ deluge,0.3500775,n,,
-7/20/21,16,2,wet,amb w/ deluge,0.3889443,n,,
-7/20/21,18,3,ambient (no del),amb,0.3851282,n,,
-7/20/21,19,1,drought,dry w/ deluge,0.3519061,n,,
-7/20/21,20,2,wet,amb w/ deluge,0.379495,n,,
-7/20/21,21,4,ambient (w/ del),amb,0.3767408,n,,
-7/20/21,22,1,drought,dry w/ deluge,0.3737913,n,,
-7/20/21,23,4,ambient (w/ del),amb,0.3767103,n,,
-7/20/21,24,2,wet,amb w/ deluge,NA,y,,Image missing – never cropped
-7/20/21,26,4,ambient (w/ del),amb,0.3708766,n,,Image slightly crooked from tilted phone
-7/20/21,28,3,ambient (no del),amb,0.3832137,n,,
-7/20/21,29,4,ambient (w/ del),amb,0.3751365,n,,
-7/20/21,30,2,wet,amb w/ deluge,0.4025211,n,,
-7/20/21,31,3,ambient (no del),amb,0.3832844,n,,
-7/20/21,32,4,ambient (w/ del),amb,NA,y,,Image missing - never cropped
-7/20/21,33,1,drought,dry w/ deluge,0.3674473,n,,
-7/20/21,34,3,ambient (no del),amb,0.3816727,n,,
-7/20/21,35,4,ambient (w/ del),amb,0.3685021,n,,
-7/20/21,37,2,wet,amb w/ deluge,0.3656875,n,,
-7/20/21,38,1,drought,dry w/ deluge,0.3575253,n,,
-7/20/21,39,3,ambient (no del),amb,0.3712717,n,,
-7/20/21,41,1,drought,dry w/ deluge,0.3643539,n,,
-7/20/21,42,3,ambient (no del),amb,0.3876965,n,,
-7/20/21,43,3,ambient (no del),amb,0.3759929,n,,
-7/20/21,44,2,wet,amb w/ deluge,0.3979517,n,,
-7/20/21,45,4,ambient (w/ del),amb,0.3648978,n,,
-7/20/21,47,4,ambient (w/ del),amb,0.3881614,n,,
-7/20/21,49,1,drought,dry w/ deluge,0.3627573,n,,
-7/20/21,50,4,ambient (w/ del),amb,0.369057,n,,
-7/22/21,2,3,ambient (no del),amb,NA,y,,Image missing - never cropped
-7/22/21,3,1,drought,dry w/ deluge,0.4391432,n,,lots of purple flowers blooming throughout plot
-7/22/21,4,2,wet,amb w/ deluge,0.3974805,n,,
-7/22/21,5,1,drought,dry w/ deluge,0.3623585,n,,
-7/22/21,6,3,ambient (no del),amb,0.3903717,n,,
-7/22/21,9,3,ambient (no del),amb,0.4030777,n,,
-7/22/21,10,2,wet,amb w/ deluge,0.3956997,n,,
-7/22/21,11,2,wet,amb w/ deluge,0.3823954,n,,
-7/22/21,12,4,ambient (w/ del),amb,0.3864737,n,,
-7/22/21,13,2,wet,amb w/ deluge,0.4073768,n,,
-7/22/21,14,1,drought,dry w/ deluge,0.357748,n,,
-7/22/21,15,1,drought,dry w/ deluge,0.3559758,n,,
-7/22/21,16,2,wet,amb w/ deluge,0.3972814,n,,
-7/22/21,18,3,ambient (no del),amb,0.3881581,n,,
-7/22/21,19,1,drought,dry w/ deluge,0.3566907,n,,
-7/22/21,20,2,wet,amb w/ deluge,0.387217,n,,
-7/22/21,21,4,ambient (w/ del),amb,NA,y,,Image missing – never cropped
-7/22/21,22,1,drought,dry w/ deluge,0.3799157,n,,
-7/22/21,23,4,ambient (w/ del),amb,0.3758336,n,,
-7/22/21,24,2,wet,amb w/ deluge,0.4013381,n,,
-7/22/21,26,4,ambient (w/ del),amb,0.3718663,y,,REMOVE - image is blurry in majority of plot area
-7/22/21,28,3,ambient (no del),amb,0.3930624,n,,
-7/22/21,29,4,ambient (w/ del),amb,0.3778024,n,,
-7/22/21,30,2,wet,amb w/ deluge,0.4139777,n,,
-7/22/21,31,3,ambient (no del),amb,0.3851583,n,,
-7/22/21,32,4,ambient (w/ del),amb,0.3915252,n,,
-7/22/21,33,1,drought,dry w/ deluge,0.3711741,n,,
-7/22/21,34,3,ambient (no del),amb,0.3824929,n,,
-7/22/21,35,4,ambient (w/ del),amb,0.3644063,n,,
-7/22/21,37,2,wet,amb w/ deluge,0.3705854,n,,
-7/22/21,38,1,drought,dry w/ deluge,0.3593618,n,,
-7/22/21,39,3,ambient (no del),amb,0.372368,n,,
-7/22/21,41,1,drought,dry w/ deluge,0.3667845,n,,
-7/22/21,42,3,ambient (no del),amb,0.3884883,n,,
-7/22/21,43,3,ambient (no del),amb,0.3767562,n,,
-7/22/21,44,2,wet,amb w/ deluge,0.403141,n,,
-7/22/21,45,4,ambient (w/ del),amb,0.3658849,n,,
-7/22/21,47,4,ambient (w/ del),amb,0.388651,n,,
-7/22/21,49,1,drought,dry w/ deluge,0.3650365,n,,
-7/22/21,50,4,ambient (w/ del),amb,0.3754396,n,,
-7/26/21,2,3,ambient (no del),amb,0.3832669,n,,
-7/26/21,3,1,drought,dry w/ deluge,0.4008114,n,,still lots of purple flowers in plot area
-7/26/21,4,2,wet,amb w/ deluge,0.3845583,n,,
-7/26/21,5,1,drought,dry w/ deluge,0.3555814,n,,
-7/26/21,6,3,ambient (no del),amb,0.377598,n,,
-7/26/21,9,3,ambient (no del),amb,0.3855058,n,,
-7/26/21,10,2,wet,amb w/ deluge,0.3809898,n,,some purple flowers blooming in plot area
-7/26/21,11,2,wet,amb w/ deluge,0.368089,n,,
-7/26/21,12,4,ambient (w/ del),amb,0.3780076,n,,
-7/26/21,13,2,wet,amb w/ deluge,0.3921266,n,,
-7/26/21,14,1,drought,dry w/ deluge,0.3589654,n,,
-7/26/21,15,1,drought,dry w/ deluge,0.3488709,n,,
-7/26/21,16,2,wet,amb w/ deluge,0.3890453,n,,
-7/26/21,18,3,ambient (no del),amb,0.3684597,n,,
-7/26/21,19,1,drought,dry w/ deluge,0.3559426,n,,
-7/26/21,20,2,wet,amb w/ deluge,NA,y,,missing
-7/26/21,21,4,ambient (w/ del),amb,0.3685881,n,,
-7/26/21,22,1,drought,dry w/ deluge,0.3650872,n,,
-7/26/21,23,4,ambient (w/ del),amb,NA,y,,missing
-7/26/21,24,2,wet,amb w/ deluge,0.3878526,n,,
-7/26/21,26,4,ambient (w/ del),amb,NA,y,,missing
-7/26/21,28,3,ambient (no del),amb,0.3776257,n,,
-7/26/21,29,4,ambient (w/ del),amb,0.368884,n,,
-7/26/21,30,2,wet,amb w/ deluge,NA,y,,missing
-7/26/21,31,3,ambient (no del),amb,0.3656369,n,,
-7/26/21,32,4,ambient (w/ del),amb,0.3813362,n,,
-7/26/21,33,1,drought,dry w/ deluge,0.3744495,n,,
-7/26/21,34,3,ambient (no del),amb,0.3692737,n,,
-7/26/21,35,4,ambient (w/ del),amb,NA,y,,missing
-7/26/21,37,2,wet,amb w/ deluge,NA,y,,missing
-7/26/21,38,1,drought,dry w/ deluge,0.3554555,n,,
-7/26/21,39,3,ambient (no del),amb,0.3679358,n,,
-7/26/21,41,1,drought,dry w/ deluge,0.3644471,n,,
-7/26/21,42,3,ambient (no del),amb,NA,y,,missing
-7/26/21,43,3,ambient (no del),amb,0.3698057,n,,
-7/26/21,44,2,wet,amb w/ deluge,0.3928313,n,,
-7/26/21,45,4,ambient (w/ del),amb,0.3525261,n,,
-7/26/21,47,4,ambient (w/ del),amb,NA,y,,missing
-7/26/21,49,1,drought,dry w/ deluge,0.36073,n,,
-7/26/21,50,4,ambient (w/ del),amb,0.3602066,n,,Yellow flower in upper corner of photo (~10% of photo)
-7/29/21,2,3,ambient (no del),amb,0.3654965,n,,
-7/29/21,3,1,drought,dry w/ deluge,0.420864,n,,
-7/29/21,4,2,wet,amb w/ deluge,0.3895289,n,,
-7/29/21,5,1,drought,dry w/ deluge,0.351852,n,,
-7/29/21,6,3,ambient (no del),amb,0.3794494,n,,
-7/29/21,9,3,ambient (no del),amb,0.388342,n,,
-7/29/21,10,2,wet,amb w/ deluge,0.3916337,n,,A few purple flowers starting to bloom
-7/29/21,11,2,wet,amb w/ deluge,0.37356,n,,
-7/29/21,12,4,ambient (w/ del),amb,0.3798101,n,,
-7/29/21,13,2,wet,amb w/ deluge,0.4047006,n,,
-7/29/21,14,1,drought,dry w/ deluge,0.3563593,n,,
-7/29/21,15,1,drought,dry w/ deluge,0.351031,n,,
-7/29/21,16,2,wet,amb w/ deluge,0.3957725,n,,
-7/29/21,18,3,ambient (no del),amb,0.3657552,n,,
-7/29/21,19,1,drought,dry w/ deluge,0.3587983,n,,
-7/29/21,20,2,wet,amb w/ deluge,0.378211,n,,
-7/29/21,21,4,ambient (w/ del),amb,0.3691115,n,,
-7/29/21,22,1,drought,dry w/ deluge,0.3603555,n,,
-7/29/21,23,4,ambient (w/ del),amb,0.3702268,n,,
-7/29/21,24,2,wet,amb w/ deluge,0.393574,n,,
-7/29/21,26,4,ambient (w/ del),amb,0.3606357,n,,
-7/29/21,28,3,ambient (no del),amb,0.3839817,n,,
-7/29/21,29,4,ambient (w/ del),amb,0.3635502,n,,
-7/29/21,30,2,wet,amb w/ deluge,0.4050527,n,,
-7/29/21,31,3,ambient (no del),amb,0.3647815,n,,
-7/29/21,32,4,ambient (w/ del),amb,0.3746596,n,,
-7/29/21,33,1,drought,dry w/ deluge,0.3686464,n,,
-7/29/21,34,3,ambient (no del),amb,0.3666674,n,,
-7/29/21,35,4,ambient (w/ del),amb,0.3586019,n,,
-7/29/21,37,2,wet,amb w/ deluge,0.3709,n,,
-7/29/21,38,1,drought,dry w/ deluge,0.3500114,n,,
-7/29/21,39,3,ambient (no del),amb,0.3658721,n,,
-7/29/21,41,1,drought,dry w/ deluge,0.3634517,n,,Image slightly crooked from tilted phone
-7/29/21,42,3,ambient (no del),amb,0.3763326,n,,
-7/29/21,43,3,ambient (no del),amb,0.3664679,n,,
-7/29/21,44,2,wet,amb w/ deluge,0.4025307,n,,
-7/29/21,45,4,ambient (w/ del),amb,0.3535235,n,,
-7/29/21,47,4,ambient (w/ del),amb,0.3749156,n,,
-7/29/21,49,1,drought,dry w/ deluge,0.3584226,n,,
-7/29/21,50,4,ambient (w/ del),amb,0.3635278,n,,Some yellow flowers starting to bloom in corner
-8/1/21,2,3,ambient (no del),amb,0.3629017,n,,
-8/1/21,3,1,drought,dry w/ deluge,0.4180824,n,,
-8/1/21,4,2,wet,amb w/ deluge,0.3876617,n,,
-8/1/21,5,1,drought,dry w/ deluge,0.3458391,n,,
-8/1/21,6,3,ambient (no del),amb,0.3734211,n,,
-8/1/21,9,3,ambient (no del),amb,0.3873395,n,,
-8/1/21,10,2,wet,amb w/ deluge,0.3873379,n,,
-8/1/21,11,2,wet,amb w/ deluge,0.376163,n,,
-8/1/21,12,4,ambient (w/ del),amb,0.3757181,n,,
-8/1/21,13,2,wet,amb w/ deluge,0.4039217,n,,
-8/1/21,14,1,drought,dry w/ deluge,0.3548404,n,,
-8/1/21,15,1,drought,dry w/ deluge,0.3470173,n,,
-8/1/21,16,2,wet,amb w/ deluge,NA,y,,missing
-8/1/21,18,3,ambient (no del),amb,0.3560096,n,,
-8/1/21,19,1,drought,dry w/ deluge,0.3602876,n,,
-8/1/21,20,2,wet,amb w/ deluge,0.3773636,n,,
-8/1/21,21,4,ambient (w/ del),amb,0.3663796,n,,
-8/1/21,22,1,drought,dry w/ deluge,0.352979,n,,
-8/1/21,23,4,ambient (w/ del),amb,0.3653988,n,,
-8/1/21,24,2,wet,amb w/ deluge,0.3907499,n,,
-8/1/21,26,4,ambient (w/ del),amb,0.3553156,y,,REMOVE - image is blurry in majority of plot area & crooked from tilted phone
-8/1/21,28,3,ambient (no del),amb,0.3802146,n,,
-8/1/21,29,4,ambient (w/ del),amb,0.3629571,n,,
-8/1/21,30,2,wet,amb w/ deluge,0.4049328,n,,
-8/1/21,31,3,ambient (no del),amb,0.3607953,n,,
-8/1/21,32,4,ambient (w/ del),amb,0.3736019,n,,Image slightly crooked from tilted phone
-8/1/21,33,1,drought,dry w/ deluge,0.3669262,n,,
-8/1/21,34,3,ambient (no del),amb,0.3616084,n,,
-8/1/21,35,4,ambient (w/ del),amb,0.3530183,n,,
-8/1/21,37,2,wet,amb w/ deluge,0.3686642,n,,
-8/1/21,38,1,drought,dry w/ deluge,0.3459972,n,,
-8/1/21,39,3,ambient (no del),amb,0.3669422,n,,
-8/1/21,41,1,drought,dry w/ deluge,0.3636433,n,,
-8/1/21,42,3,ambient (no del),amb,0.3755149,n,,
-8/1/21,43,3,ambient (no del),amb,0.3603967,n,,
-8/1/21,44,2,wet,amb w/ deluge,0.405315,n,,
-8/1/21,45,4,ambient (w/ del),amb,0.3473625,n,,
-8/1/21,47,4,ambient (w/ del),amb,0.3738171,n,,
-8/1/21,49,1,drought,dry w/ deluge,0.354483,n,,
-8/1/21,50,4,ambient (w/ del),amb,NA,y,,missing
-8/5/21,2,3,ambient (no del),amb,0.3526452,n,,
-8/5/21,3,1,drought,dry w/ deluge,0.4095886,n,,
-8/5/21,4,2,wet,amb w/ deluge,0.3767692,n,,
-8/5/21,5,1,drought,dry w/ deluge,0.3401206,n,,
-8/5/21,6,3,ambient (no del),amb,0.3644275,n,,
-8/5/21,9,3,ambient (no del),amb,0.3789008,n,,
-8/5/21,10,2,wet,amb w/ deluge,0.3861985,n,,
-8/5/21,11,2,wet,amb w/ deluge,0.3678852,n,,
-8/5/21,12,4,ambient (w/ del),amb,0.3714006,n,,
-8/5/21,13,2,wet,amb w/ deluge,0.3888089,n,,
-8/5/21,14,1,drought,dry w/ deluge,0.3439599,n,,
-8/5/21,15,1,drought,dry w/ deluge,0.3407858,n,,
-8/5/21,16,2,wet,amb w/ deluge,0.3887567,n,,
-8/5/21,18,3,ambient (no del),amb,0.3468052,n,,
-8/5/21,19,1,drought,dry w/ deluge,0.3548328,n,,
-8/5/21,20,2,wet,amb w/ deluge,0.3722053,n,,
-8/5/21,21,4,ambient (w/ del),amb,0.3612634,n,,
-8/5/21,22,1,drought,dry w/ deluge,0.3440859,n,,
-8/5/21,23,4,ambient (w/ del),amb,0.3620245,n,,
-8/5/21,24,2,wet,amb w/ deluge,0.383362,n,,
-8/5/21,26,4,ambient (w/ del),amb,0.3475911,n,,
-8/5/21,28,3,ambient (no del),amb,0.3746888,n,,
-8/5/21,29,4,ambient (w/ del),amb,0.355538,n,,
-8/5/21,30,2,wet,amb w/ deluge,0.3938571,n,,
-8/5/21,31,3,ambient (no del),amb,0.3498983,n,,
-8/5/21,32,4,ambient (w/ del),amb,0.3661855,n,,
-8/5/21,33,1,drought,dry w/ deluge,0.3557043,n,,
-8/5/21,34,3,ambient (no del),amb,0.3503754,n,,
-8/5/21,35,4,ambient (w/ del),amb,0.3505735,n,,
-8/5/21,37,2,wet,amb w/ deluge,0.3603628,n,,
-8/5/21,38,1,drought,dry w/ deluge,0.339085,n,,
-8/5/21,39,3,ambient (no del),amb,0.3638508,n,,
-8/5/21,41,1,drought,dry w/ deluge,0.3546602,n,,
-8/5/21,42,3,ambient (no del),amb,0.36046,n,,
-8/5/21,43,3,ambient (no del),amb,0.3546892,n,,
-8/5/21,44,2,wet,amb w/ deluge,0.3960659,n,,
-8/5/21,45,4,ambient (w/ del),amb,0.3444627,n,,
-8/5/21,47,4,ambient (w/ del),amb,0.3617903,n,,
-8/5/21,49,1,drought,dry w/ deluge,0.3472028,n,,
-8/5/21,50,4,ambient (w/ del),amb,0.3476901,n,,
-8/9/21,2,3,ambient (no del),amb,0.3488939,n,,
-8/9/21,3,1,drought,dry w/ deluge,0.3960467,n,,
-8/9/21,4,2,wet,amb w/ deluge,0.3605953,n,,
-8/9/21,5,1,drought,dry w/ deluge,0.3420037,n,,
-8/9/21,6,3,ambient (no del),amb,0.3546036,n,,
-8/9/21,9,3,ambient (no del),amb,0.3622174,n,,
-8/9/21,10,2,wet,amb w/ deluge,0.3755344,n,,
-8/9/21,11,2,wet,amb w/ deluge,0.3630776,n,,
-8/9/21,12,4,ambient (w/ del),amb,0.3737505,n,,
-8/9/21,13,2,wet,amb w/ deluge,0.3373717,n,,Tumbleweeds starting to die over plot - some still green but some turning yellow
-8/9/21,14,1,drought,dry w/ deluge,0.3403568,n,,
-8/9/21,15,1,drought,dry w/ deluge,0.379694,n,,
-8/9/21,16,2,wet,amb w/ deluge,0.3610211,n,,
-8/9/21,18,3,ambient (no del),amb,0.3432361,n,,
-8/9/21,19,1,drought,dry w/ deluge,0.3463098,n,,
-8/9/21,20,2,wet,amb w/ deluge,0.3646548,n,,
-8/9/21,21,4,ambient (w/ del),amb,0.3545003,n,,
-8/9/21,22,1,drought,dry w/ deluge,0.3359388,n,,
-8/9/21,23,4,ambient (w/ del),amb,0.3568688,n,,
-8/9/21,24,2,wet,amb w/ deluge,0.3666346,n,,
-8/9/21,26,4,ambient (w/ del),amb,0.3491876,n,,
-8/9/21,28,3,ambient (no del),amb,0.3631003,n,,
-8/9/21,29,4,ambient (w/ del),amb,0.3493719,n,,
-8/9/21,30,2,wet,amb w/ deluge,0.3733917,n,,
-8/9/21,31,3,ambient (no del),amb,0.3432559,n,,
-8/9/21,32,4,ambient (w/ del),amb,0.3491286,n,,
-8/9/21,33,1,drought,dry w/ deluge,0.3453702,n,,
-8/9/21,34,3,ambient (no del),amb,0.3452172,n,,
-8/9/21,35,4,ambient (w/ del),amb,0.3465603,n,,
-8/9/21,37,2,wet,amb w/ deluge,0.3592909,n,,
-8/9/21,38,1,drought,dry w/ deluge,0.3443732,n,,
-8/9/21,39,3,ambient (no del),amb,0.3551368,n,,
-8/9/21,41,1,drought,dry w/ deluge,0.3436177,n,,
-8/9/21,42,3,ambient (no del),amb,0.3517737,n,,
-8/9/21,43,3,ambient (no del),amb,0.3551324,n,,
-8/9/21,44,2,wet,amb w/ deluge,0.3820057,n,,
-8/9/21,45,4,ambient (w/ del),amb,0.3467203,n,,
-8/9/21,47,4,ambient (w/ del),amb,0.3625376,n,,
-8/9/21,49,1,drought,dry w/ deluge,0.3444942,n,,
-8/9/21,50,4,ambient (w/ del),amb,0.3465537,n,,Lots of dying western wheatgrass flowering stalks in plot - yellow stalks
-8/13/21,2,3,ambient (no del),amb,0.340966,n,,
-8/13/21,3,1,drought,dry w/ deluge,0.3795036,n,,
-8/13/21,4,2,wet,amb w/ deluge,0.3579137,n,,
-8/13/21,5,1,drought,dry w/ deluge,0.3387441,n,,
-8/13/21,6,3,ambient (no del),amb,0.3480086,n,,
-8/13/21,9,3,ambient (no del),amb,0.3552396,n,,
-8/13/21,10,2,wet,amb w/ deluge,0.3687442,n,,
-8/13/21,11,2,wet,amb w/ deluge,0.3596765,n,,
-8/13/21,12,4,ambient (w/ del),amb,0.3592634,n,,
-8/13/21,13,2,wet,amb w/ deluge,0.3664459,n,,
-8/13/21,14,1,drought,dry w/ deluge,0.3312144,n,,
-8/13/21,15,1,drought,dry w/ deluge,0.3413248,n,,
-8/13/21,16,2,wet,amb w/ deluge,0.3757382,n,,
-8/13/21,18,3,ambient (no del),amb,0.3386541,n,,
-8/13/21,19,1,drought,dry w/ deluge,0.3463529,n,,Image slightly crooked from tilted phone
-8/13/21,20,2,wet,amb w/ deluge,0.3655553,n,,
-8/13/21,21,4,ambient (w/ del),amb,0.3563824,n,,
-8/13/21,22,1,drought,dry w/ deluge,0.3387621,n,,
-8/13/21,23,4,ambient (w/ del),amb,0.3558984,n,,
-8/13/21,24,2,wet,amb w/ deluge,0.3621955,n,,
-8/13/21,26,4,ambient (w/ del),amb,0.3449681,n,,
-8/13/21,28,3,ambient (no del),amb,0.3572341,n,,
-8/13/21,29,4,ambient (w/ del),amb,0.3436214,n,,
-8/13/21,30,2,wet,amb w/ deluge,0.3603017,n,,
-8/13/21,31,3,ambient (no del),amb,0.3441133,n,,
-8/13/21,32,4,ambient (w/ del),amb,0.3488773,n,,
-8/13/21,33,1,drought,dry w/ deluge,0.34425,n,,
-8/13/21,34,3,ambient (no del),amb,0.3469758,n,,
-8/13/21,35,4,ambient (w/ del),amb,0.3441131,n,,
-8/13/21,37,2,wet,amb w/ deluge,0.3609534,n,,
-8/13/21,38,1,drought,dry w/ deluge,0.340899,n,,
-8/13/21,39,3,ambient (no del),amb,0.3534704,n,,
-8/13/21,41,1,drought,dry w/ deluge,0.3452139,n,,
-8/13/21,42,3,ambient (no del),amb,0.3454934,n,,
-8/13/21,43,3,ambient (no del),amb,0.3506532,n,,
-8/13/21,44,2,wet,amb w/ deluge,0.3759614,n,,
-8/13/21,45,4,ambient (w/ del),amb,0.3432983,n,,
-8/13/21,47,4,ambient (w/ del),amb,0.3447612,n,,
-8/13/21,49,1,drought,dry w/ deluge,0.3398437,n,,
-8/13/21,50,4,ambient (w/ del),amb,0.3419546,n,,
-8/17/21,2,3,ambient (no del),amb,0.3374743,n,,
-8/17/21,3,1,drought,dry w/ deluge,0.3803531,n,,
-8/17/21,4,2,wet,amb w/ deluge,0.3519243,n,,
-8/17/21,5,1,drought,dry w/ deluge,0.3389842,n,,
-8/17/21,6,3,ambient (no del),amb,0.3460109,n,,
-8/17/21,9,3,ambient (no del),amb,0.3551531,n,,
-8/17/21,10,2,wet,amb w/ deluge,0.3628974,n,,
-8/17/21,11,2,wet,amb w/ deluge,0.357743,n,,
-8/17/21,12,4,ambient (w/ del),amb,0.3580689,n,,
-8/17/21,13,2,wet,amb w/ deluge,0.3597982,n,,
-8/17/21,14,1,drought,dry w/ deluge,0.3331114,n,,
-8/17/21,15,1,drought,dry w/ deluge,0.3388277,n,,
-8/17/21,16,2,wet,amb w/ deluge,0.3693095,n,,
-8/17/21,18,3,ambient (no del),amb,0.3337995,n,,
-8/17/21,19,1,drought,dry w/ deluge,0.3486335,n,,
-8/17/21,20,2,wet,amb w/ deluge,0.3617525,n,,
-8/17/21,21,4,ambient (w/ del),amb,0.349409,n,,
-8/17/21,22,1,drought,dry w/ deluge,0.3352009,n,,
-8/17/21,23,4,ambient (w/ del),amb,0.3583451,n,,
-8/17/21,24,2,wet,amb w/ deluge,0.3576209,n,,
-8/17/21,26,4,ambient (w/ del),amb,0.3468049,n,,
-8/17/21,28,3,ambient (no del),amb,0.3484293,n,,
-8/17/21,29,4,ambient (w/ del),amb,0.3442404,n,,
-8/17/21,30,2,wet,amb w/ deluge,0.3504221,n,,
-8/17/21,31,3,ambient (no del),amb,0.3394287,n,,
-8/17/21,32,4,ambient (w/ del),amb,0.3459668,n,,
-8/17/21,33,1,drought,dry w/ deluge,0.3439777,n,,
-8/17/21,34,3,ambient (no del),amb,0.3428831,n,,
-8/17/21,35,4,ambient (w/ del),amb,0.3437025,n,,
-8/17/21,37,2,wet,amb w/ deluge,0.3545177,n,,
-8/17/21,38,1,drought,dry w/ deluge,0.3367055,n,,
-8/17/21,39,3,ambient (no del),amb,0.3530036,n,,
-8/17/21,41,1,drought,dry w/ deluge,0.3408998,n,,
-8/17/21,42,3,ambient (no del),amb,0.3429411,n,,
-8/17/21,43,3,ambient (no del),amb,0.3449611,n,,
-8/17/21,44,2,wet,amb w/ deluge,0.3695049,n,,
-8/17/21,45,4,ambient (w/ del),amb,0.3463922,n,,
-8/17/21,47,4,ambient (w/ del),amb,0.3498573,n,,
-8/17/21,49,1,drought,dry w/ deluge,0.3434118,n,,
-8/17/21,50,4,ambient (w/ del),amb,0.34445,n,,Flowering yellow bottom corner ~5-10% of plot area
-8/20/21,2,3,ambient (no del),amb,0.3428253,n,,
-8/20/21,3,1,drought,dry w/ deluge,0.3604172,n,,
-8/20/21,4,2,wet,amb w/ deluge,0.3426011,n,,
-8/20/21,5,1,drought,dry w/ deluge,0.3358737,n,,
-8/20/21,6,3,ambient (no del),amb,0.3422899,n,,
-8/20/21,9,3,ambient (no del),amb,0.3444778,n,,
-8/20/21,10,2,wet,amb w/ deluge,0.3546382,n,,
-8/20/21,11,2,wet,amb w/ deluge,0.351982,n,,
-8/20/21,12,4,ambient (w/ del),amb,0.3545071,n,,
-8/20/21,13,2,wet,amb w/ deluge,0.3527507,n,,
-8/20/21,14,1,drought,dry w/ deluge,0.3320042,n,,
-8/20/21,15,1,drought,dry w/ deluge,0.3390314,n,,
-8/20/21,16,2,wet,amb w/ deluge,0.3585834,n,,
-8/20/21,18,3,ambient (no del),amb,0.3339883,n,,
-8/20/21,19,1,drought,dry w/ deluge,0.3436094,n,,
-8/20/21,20,2,wet,amb w/ deluge,0.3512014,n,,
-8/20/21,21,4,ambient (w/ del),amb,0.344703,n,,
-8/20/21,22,1,drought,dry w/ deluge,0.3304446,n,,
-8/20/21,23,4,ambient (w/ del),amb,0.3490316,n,,
-8/20/21,24,2,wet,amb w/ deluge,0.351586,n,,
-8/20/21,26,4,ambient (w/ del),amb,0.3476103,y,,REMOVE - image is blurry in majority of plot area 
-8/20/21,28,3,ambient (no del),amb,0.3455701,n,,
-8/20/21,29,4,ambient (w/ del),amb,0.3363919,n,,
-8/20/21,30,2,wet,amb w/ deluge,0.3395013,n,,
-8/20/21,31,3,ambient (no del),amb,0.3384857,n,,
-8/20/21,32,4,ambient (w/ del),amb,0.341534,n,,
-8/20/21,33,1,drought,dry w/ deluge,0.3381478,n,,
-8/20/21,34,3,ambient (no del),amb,0.3393145,n,,
-8/20/21,35,4,ambient (w/ del),amb,0.3385073,n,,
-8/20/21,37,2,wet,amb w/ deluge,0.3452944,n,,
-8/20/21,38,1,drought,dry w/ deluge,0.3344639,n,,
-8/20/21,39,3,ambient (no del),amb,0.3500438,n,,
-8/20/21,41,1,drought,dry w/ deluge,0.3442322,n,,
-8/20/21,42,3,ambient (no del),amb,0.342257,n,,
-8/20/21,43,3,ambient (no del),amb,0.3383308,n,,
-8/20/21,44,2,wet,amb w/ deluge,0.3541561,n,,
-8/20/21,45,4,ambient (w/ del),amb,0.3371914,n,,
-8/20/21,47,4,ambient (w/ del),amb,0.3401171,n,,
-8/20/21,49,1,drought,dry w/ deluge,0.3347684,n,,
-8/20/21,50,4,ambient (w/ del),amb,0.3381704,n,,Some yellow flowers
-8/23/21,2,3,ambient (no del),amb,0.3410752,n,,Some yellow flowers blurred – potentially high up close to camera/blocking green under
-8/23/21,3,1,drought,dry w/ deluge,0.3615931,n,,
-8/23/21,4,2,wet,amb w/ deluge,0.3379513,n,,
-8/23/21,5,1,drought,dry w/ deluge,0.3400554,n,,
-8/23/21,6,3,ambient (no del),amb,0.3346445,n,,
-8/23/21,9,3,ambient (no del),amb,0.3413822,n,,
-8/23/21,10,2,wet,amb w/ deluge,0.3569599,n,,
-8/23/21,11,2,wet,amb w/ deluge,0.3493239,n,,
-8/23/21,12,4,ambient (w/ del),amb,0.3539781,n,,
-8/23/21,13,2,wet,amb w/ deluge,0.3441881,n,,
-8/23/21,14,1,drought,dry w/ deluge,0.3325965,n,,
-8/23/21,15,1,drought,dry w/ deluge,0.3375861,n,,
-8/23/21,16,2,wet,amb w/ deluge,0.3535279,n,,
-8/23/21,18,3,ambient (no del),amb,0.3273332,n,,
-8/23/21,19,1,drought,dry w/ deluge,0.3364967,n,,"Image is crooked from tilted phone, may be distorted"
-8/23/21,20,2,wet,amb w/ deluge,0.3497668,n,,
-8/23/21,21,4,ambient (w/ del),amb,0.3461662,n,,
-8/23/21,22,1,drought,dry w/ deluge,0.3325488,n,,
-8/23/21,23,4,ambient (w/ del),amb,0.3510581,n,,
-8/23/21,24,2,wet,amb w/ deluge,0.3449841,n,,
-8/23/21,26,4,ambient (w/ del),amb,0.3422727,n,,
-8/23/21,28,3,ambient (no del),amb,0.3397487,n,,
-8/23/21,29,4,ambient (w/ del),amb,0.3349714,n,,
-8/23/21,30,2,wet,amb w/ deluge,0.3398106,n,,
-8/23/21,31,3,ambient (no del),amb,0.3324603,n,,
-8/23/21,32,4,ambient (w/ del),amb,0.3421665,n,,
-8/23/21,33,1,drought,dry w/ deluge,0.3442238,n,,
-8/23/21,34,3,ambient (no del),amb,NA,y,,missing
-8/23/21,35,4,ambient (w/ del),amb,0.3451135,n,,
-8/23/21,37,2,wet,amb w/ deluge,0.3495268,n,,
-8/23/21,38,1,drought,dry w/ deluge,0.3391243,n,,
-8/23/21,39,3,ambient (no del),amb,0.3441213,n,,
-8/23/21,41,1,drought,dry w/ deluge,0.3383827,n,,
-8/23/21,42,3,ambient (no del),amb,0.3329228,n,,
-8/23/21,43,3,ambient (no del),amb,0.3486682,n,,
-8/23/21,44,2,wet,amb w/ deluge,NA,y,,missing
-8/23/21,45,4,ambient (w/ del),amb,0.3422541,n,,
-8/23/21,47,4,ambient (w/ del),amb,0.336676,n,,
-8/23/21,49,1,drought,dry w/ deluge,NA,y,,missing
-8/23/21,50,4,ambient (w/ del),amb,0.3389197,n,,
-8/29/21,2,3,ambient (no del),amb,0.3380182,n,,
-8/29/21,3,1,drought,dry w/ deluge,0.3527141,n,,
-8/29/21,4,2,wet,amb w/ deluge,0.3419229,n,,
-8/29/21,5,1,drought,dry w/ deluge,0.339139,n,,
-8/29/21,6,3,ambient (no del),amb,0.3411475,n,,
-8/29/21,9,3,ambient (no del),amb,0.3390822,n,,
-8/29/21,10,2,wet,amb w/ deluge,0.3396886,n,,
-8/29/21,11,2,wet,amb w/ deluge,0.3546102,n,,
-8/29/21,12,4,ambient (w/ del),amb,0.3546166,n,,
-8/29/21,13,2,wet,amb w/ deluge,0.3442915,n,,Tumbleweeds over plot dying/turning yellow over green lower grass
-8/29/21,14,1,drought,dry w/ deluge,0.3355683,n,,
-8/29/21,15,1,drought,dry w/ deluge,0.3417825,n,,
-8/29/21,16,2,wet,amb w/ deluge,0.3467039,n,,
-8/29/21,18,3,ambient (no del),amb,0.3350401,n,,
-8/29/21,19,1,drought,dry w/ deluge,0.3410721,n,,
-8/29/21,20,2,wet,amb w/ deluge,0.3512975,n,,
-8/29/21,21,4,ambient (w/ del),amb,0.3406824,n,,
-8/29/21,22,1,drought,dry w/ deluge,0.3356074,n,,
-8/29/21,23,4,ambient (w/ del),amb,0.3471858,n,,
-8/29/21,24,2,wet,amb w/ deluge,0.3435508,n,,
-8/29/21,26,4,ambient (w/ del),amb,0.3423413,n,,
-8/29/21,28,3,ambient (no del),amb,0.341433,n,,
-8/29/21,29,4,ambient (w/ del),amb,0.3408548,n,,
-8/29/21,30,2,wet,amb w/ deluge,0.337951,n,,
-8/29/21,31,3,ambient (no del),amb,0.3384421,n,,
-8/29/21,32,4,ambient (w/ del),amb,0.3405163,n,,
-8/29/21,33,1,drought,dry w/ deluge,0.3406913,n,,
-8/29/21,34,3,ambient (no del),amb,0.3389035,n,,
-8/29/21,35,4,ambient (w/ del),amb,0.341656,n,,
-8/29/21,37,2,wet,amb w/ deluge,0.3483115,n,,
-8/29/21,38,1,drought,dry w/ deluge,0.3409901,n,,
-8/29/21,39,3,ambient (no del),amb,0.3480833,n,,
-8/29/21,41,1,drought,dry w/ deluge,0.3411109,n,,
-8/29/21,42,3,ambient (no del),amb,0.3379196,n,,
-8/29/21,43,3,ambient (no del),amb,0.3406254,n,,
-8/29/21,44,2,wet,amb w/ deluge,0.3386724,n,,
-8/29/21,45,4,ambient (w/ del),amb,0.3392183,n,,
-8/29/21,47,4,ambient (w/ del),amb,0.3410096,n,,Image slightly crooked from tilted phone
-8/29/21,49,1,drought,dry w/ deluge,0.3388426,n,,
-8/29/21,50,4,ambient (w/ del),amb,0.3417345,n,,
-9/3/21,2,3,ambient (no del),amb,0.3355666,n,,
-9/3/21,3,1,drought,dry w/ deluge,0.3495081,n,,
-9/3/21,4,2,wet,amb w/ deluge,0.3387758,n,,
-9/3/21,5,1,drought,dry w/ deluge,0.3326952,n,,
-9/3/21,6,3,ambient (no del),amb,0.3339993,n,,
-9/3/21,9,3,ambient (no del),amb,0.3246196,n,,
-9/3/21,10,2,wet,amb w/ deluge,0.3373085,n,,
-9/3/21,11,2,wet,amb w/ deluge,0.3513416,n,,
-9/3/21,12,4,ambient (w/ del),amb,0.3465304,n,,
-9/3/21,13,2,wet,amb w/ deluge,0.3393455,n,,Lots of dead yellow tumbleweeds over plot area
-9/3/21,14,1,drought,dry w/ deluge,0.3313231,n,,
-9/3/21,15,1,drought,dry w/ deluge,0.3379711,n,,
-9/3/21,16,2,wet,amb w/ deluge,NA,y,,missing
-9/3/21,18,3,ambient (no del),amb,0.3282002,n,,
-9/3/21,19,1,drought,dry w/ deluge,0.3365375,n,,
-9/3/21,20,2,wet,amb w/ deluge,NA,y,,missing
-9/3/21,21,4,ambient (w/ del),amb,0.3407261,n,,
-9/3/21,22,1,drought,dry w/ deluge,0.3328194,n,,
-9/3/21,23,4,ambient (w/ del),amb,0.3441909,n,,
-9/3/21,24,2,wet,amb w/ deluge,0.3365047,n,,
-9/3/21,26,4,ambient (w/ del),amb,0.3372187,n,,
-9/3/21,28,3,ambient (no del),amb,0.3433954,n,,
-9/3/21,29,4,ambient (w/ del),amb,0.3395972,n,,
-9/3/21,30,2,wet,amb w/ deluge,0.3396376,n,,Image slightly crooked from tilted phone
-9/3/21,31,3,ambient (no del),amb,0.3400665,n,,
-9/3/21,32,4,ambient (w/ del),amb,0.3429499,n,,
-9/3/21,33,1,drought,dry w/ deluge,0.3412863,n,,
-9/3/21,34,3,ambient (no del),amb,0.3427633,n,,
-9/3/21,35,4,ambient (w/ del),amb,0.3443405,n,,
-9/3/21,37,2,wet,amb w/ deluge,0.3475841,n,,
-9/3/21,38,1,drought,dry w/ deluge,NA,y,,missing
-9/3/21,39,3,ambient (no del),amb,NA,y,,missing
-9/3/21,41,1,drought,dry w/ deluge,0.3443944,n,,
-9/3/21,42,3,ambient (no del),amb,0.339149,n,,
-9/3/21,43,3,ambient (no del),amb,0.3438159,n,,
-9/3/21,44,2,wet,amb w/ deluge,0.3375215,n,,
-9/3/21,45,4,ambient (w/ del),amb,0.3416874,n,,
-9/3/21,47,4,ambient (w/ del),amb,0.3365223,n,,
-9/3/21,49,1,drought,dry w/ deluge,0.3403854,n,,
-9/3/21,50,4,ambient (w/ del),amb,0.339255,n,,Dead yellow western wheatgrass flowering stalks in corners of plot area
+﻿Date,Plot,NewTrt,GCC,Drop
+5/2/21,2,amb,0.333628,n
+5/2/21,3,dry w/ deluge,0.334916,n
+5/2/21,4,amb w/ deluge,0.335446,n
+5/2/21,5,dry w/ deluge,0.3375085,n
+5/2/21,6,amb,0.338314,n
+5/2/21,9,amb,0.3365077,n
+5/2/21,10,amb w/ deluge,0.336135,n
+5/2/21,11,amb w/ deluge,0.3388426,n
+5/2/21,12,amb,0.3405487,n
+5/2/21,13,amb w/ deluge,0.3353023,n
+5/2/21,14,dry w/ deluge,0.3369823,n
+5/2/21,15,dry w/ deluge,0.3374494,n
+5/2/21,16,amb w/ deluge,0.3369989,n
+5/2/21,18,amb,0.3366269,n
+5/2/21,19,dry w/ deluge,0.3359227,n
+5/2/21,20,amb w/ deluge,0.3389981,n
+5/2/21,21,amb,0.3389985,n
+5/2/21,22,dry w/ deluge,0.3380224,n
+5/2/21,23,amb,0.3404764,n
+5/2/21,24,amb w/ deluge,0.3395736,n
+5/2/21,26,amb,0.3391589,n
+5/2/21,28,amb,0.3357018,n
+5/2/21,29,amb,0.3368629,n
+5/2/21,30,amb w/ deluge,0.3361904,n
+5/2/21,31,amb,0.3364861,n
+5/2/21,32,amb,0.3383973,n
+5/2/21,33,dry w/ deluge,0.3386747,n
+5/2/21,34,amb,0.3379048,n
+5/2/21,35,amb,0.3372727,n
+5/2/21,37,amb w/ deluge,0.3378389,n
+5/2/21,38,dry w/ deluge,0.3351899,n
+5/2/21,39,amb,0.3402602,n
+5/2/21,41,dry w/ deluge,0.3356467,n
+5/2/21,42,amb,0.3372708,n
+5/2/21,43,amb,0.3371104,n
+5/2/21,44,amb w/ deluge,0.3378159,n
+5/2/21,45,amb,0.3373064,n
+5/2/21,47,amb,0.3367985,n
+5/2/21,49,dry w/ deluge,0.3393101,n
+5/2/21,50,amb,0.3378614,n
+5/7/21,2,amb,0.3303574,n
+5/7/21,3,dry w/ deluge,0.3285392,n
+5/7/21,4,amb w/ deluge,0.3233446,n
+5/7/21,5,dry w/ deluge,0.3320529,n
+5/7/21,6,amb,0.3255439,n
+5/7/21,9,amb,0.3262757,n
+5/7/21,10,amb w/ deluge,0.3253983,n
+5/7/21,11,amb w/ deluge,0.3290747,n
+5/7/21,12,amb,0.3267202,n
+5/7/21,13,amb w/ deluge,0.3248876,n
+5/7/21,14,dry w/ deluge,0.3385736,n
+5/7/21,15,dry w/ deluge,0.337779,n
+5/7/21,16,amb w/ deluge,0.3347096,n
+5/7/21,18,amb,0.3349924,n
+5/7/21,19,dry w/ deluge,0.3340793,n
+5/7/21,20,amb w/ deluge,0.3346969,n
+5/7/21,21,amb,0.3370081,n
+5/7/21,22,dry w/ deluge,0.3383602,n
+5/7/21,23,amb,0.3378386,n
+5/7/21,24,amb w/ deluge,0.335045,n
+5/7/21,26,amb,0.3344741,n
+5/7/21,28,amb,0.3347822,n
+5/7/21,29,amb,0.3366326,n
+5/7/21,30,amb w/ deluge,0.3318789,n
+5/7/21,31,amb,0.3353311,n
+5/7/21,32,amb,0.3341758,n
+5/7/21,33,dry w/ deluge,0.3428174,n
+5/7/21,34,amb,0.3370578,n
+5/7/21,35,amb,0.3406096,n
+5/7/21,37,amb w/ deluge,0.3357962,n
+5/7/21,38,dry w/ deluge,0.3432704,n
+5/7/21,39,amb,0.3371761,n
+5/7/21,41,dry w/ deluge,0.3376217,n
+5/7/21,42,amb,0.3320037,n
+5/7/21,43,amb,0.3351118,n
+5/7/21,44,amb w/ deluge,0.3347007,n
+5/7/21,45,amb,0.3383365,n
+5/7/21,47,amb,0.3350647,n
+5/7/21,49,dry w/ deluge,0.3430486,n
+5/7/21,50,amb,0.341756,n
+5/18/21,2,amb,0.3551437,n
+5/18/21,3,dry w/ deluge,0.3540633,n
+5/18/21,4,amb w/ deluge,0.3388777,n
+5/18/21,5,dry w/ deluge,0.3409826,n
+5/18/21,6,amb,0.3413553,n
+5/18/21,9,amb,0.3365443,n
+5/18/21,10,amb w/ deluge,0.3432798,n
+5/18/21,11,amb w/ deluge,0.3476073,n
+5/18/21,12,amb,0.3498405,n
+5/18/21,13,amb w/ deluge,0.3417475,n
+5/18/21,14,dry w/ deluge,0.3628535,n
+5/18/21,15,dry w/ deluge,0.3451174,n
+5/18/21,16,amb w/ deluge,0.3427241,n
+5/18/21,18,amb,0.3386493,n
+5/18/21,19,dry w/ deluge,0.3374082,n
+5/18/21,20,amb w/ deluge,0.3433294,n
+5/18/21,21,amb,0.3486897,n
+5/18/21,22,dry w/ deluge,0.3416196,n
+5/18/21,23,amb,0.3441651,n
+5/18/21,24,amb w/ deluge,0.3426978,n
+5/18/21,26,amb,0.3465596,n
+5/18/21,28,amb,0.3350844,n
+5/18/21,29,amb,0.3385731,n
+5/18/21,30,amb w/ deluge,0.3327603,n
+5/18/21,31,amb,0.3402817,n
+5/18/21,32,amb,0.3382794,n
+5/18/21,33,dry w/ deluge,0.3447546,n
+5/18/21,34,amb,0.3377044,n
+5/18/21,35,amb,0.3441004,n
+5/18/21,37,amb w/ deluge,0.3411554,n
+5/18/21,38,dry w/ deluge,0.3519034,n
+5/18/21,39,amb,0.3434459,n
+5/18/21,41,dry w/ deluge,0.346304,n
+5/18/21,42,amb,0.3393586,n
+5/18/21,43,amb,0.3424759,n
+5/18/21,44,amb w/ deluge,0.3396346,n
+5/18/21,45,amb,0.3359094,n
+5/18/21,47,amb,0.335928,n
+5/18/21,49,dry w/ deluge,0.3527402,n
+5/18/21,50,amb,0.3444033,n
+5/24/21,2,amb,0.3642321,n
+5/24/21,3,dry w/ deluge,0.3643314,n
+5/24/21,4,amb w/ deluge,0.3467316,n
+5/24/21,5,dry w/ deluge,0.3472405,n
+5/24/21,6,amb,0.34498,n
+5/24/21,9,amb,0.3412077,n
+5/24/21,10,amb w/ deluge,0.3523421,n
+5/24/21,11,amb w/ deluge,0.3533895,n
+5/24/21,12,amb,0.3516214,n
+5/24/21,13,amb w/ deluge,0.3496705,n
+5/24/21,14,dry w/ deluge,0.3692882,n
+5/24/21,15,dry w/ deluge,0.3588971,n
+5/24/21,16,amb w/ deluge,0.348694,n
+5/24/21,18,amb,0.3442422,n
+5/24/21,19,dry w/ deluge,0.3406404,n
+5/24/21,20,amb w/ deluge,0.3462125,n
+5/24/21,21,amb,0.3501957,n
+5/24/21,22,dry w/ deluge,0.343004,n
+5/24/21,23,amb,0.3482075,n
+5/24/21,24,amb w/ deluge,0.3486479,n
+5/24/21,26,amb,0.3553329,n
+5/24/21,28,amb,0.3352196,n
+5/24/21,29,amb,0.3385418,n
+5/24/21,30,amb w/ deluge,0.3375481,n
+5/24/21,31,amb,0.3385152,n
+5/24/21,32,amb,0.3366159,n
+5/24/21,33,dry w/ deluge,NA,y
+5/24/21,34,amb,0.339755,n
+5/24/21,35,amb,0.3464938,n
+5/24/21,37,amb w/ deluge,0.3453548,n
+5/24/21,38,dry w/ deluge,0.3465585,n
+5/24/21,39,amb,NA,y
+5/24/21,41,dry w/ deluge,0.3618463,n
+5/24/21,42,amb,0.3381861,n
+5/24/21,43,amb,0.3448632,n
+5/24/21,44,amb w/ deluge,0.3417681,n
+5/24/21,45,amb,0.3385324,n
+5/24/21,47,amb,0.3393404,n
+5/24/21,49,dry w/ deluge,0.3609333,n
+5/24/21,50,amb,0.3454848,n
+6/2/21,2,amb,0.3920516,n
+6/2/21,3,dry w/ deluge,0.4129038,y
+6/2/21,4,amb w/ deluge,0.3763964,n
+6/2/21,5,dry w/ deluge,0.3687925,n
+6/2/21,6,amb,0.3639112,n
+6/2/21,9,amb,0.3585099,n
+6/2/21,10,amb w/ deluge,0.384289,n
+6/2/21,11,amb w/ deluge,0.3785901,n
+6/2/21,12,amb,0.3761725,n
+6/2/21,13,amb w/ deluge,0.3742934,n
+6/2/21,14,dry w/ deluge,0.4047121,n
+6/2/21,15,dry w/ deluge,0.3661309,n
+6/2/21,16,amb w/ deluge,0.3697902,n
+6/2/21,18,amb,0.3671549,n
+6/2/21,19,dry w/ deluge,0.3421471,n
+6/2/21,20,amb w/ deluge,0.3677031,n
+6/2/21,21,amb,0.3735713,n
+6/2/21,22,dry w/ deluge,0.3629373,n
+6/2/21,23,amb,0.3665061,n
+6/2/21,24,amb w/ deluge,0.3662728,n
+6/2/21,26,amb,0.3825512,n
+6/2/21,28,amb,NA,y
+6/2/21,29,amb,0.3543423,n
+6/2/21,30,amb w/ deluge,0.3642202,n
+6/2/21,31,amb,0.3504968,n
+6/2/21,32,amb,0.3527545,n
+6/2/21,33,dry w/ deluge,0.3599354,n
+6/2/21,34,amb,0.3617983,n
+6/2/21,35,amb,NA,y
+6/2/21,37,amb w/ deluge,0.3617714,n
+6/2/21,38,dry w/ deluge,NA,y
+6/2/21,39,amb,0.3675269,n
+6/2/21,41,dry w/ deluge,0.3952433,y
+6/2/21,42,amb,0.3555605,n
+6/2/21,43,amb,0.3653629,n
+6/2/21,44,amb w/ deluge,0.3617861,n
+6/2/21,45,amb,0.3514124,n
+6/2/21,47,amb,0.3656943,n
+6/2/21,49,dry w/ deluge,0.3823557,n
+6/2/21,50,amb,0.3705593,n
+6/7/21,2,amb,0.3904447,n
+6/7/21,3,dry w/ deluge,0.3922463,y
+6/7/21,4,amb w/ deluge,0.3734183,n
+6/7/21,5,dry w/ deluge,0.3641158,n
+6/7/21,6,amb,0.3643144,n
+6/7/21,9,amb,0.3638798,n
+6/7/21,10,amb w/ deluge,0.373455,n
+6/7/21,11,amb w/ deluge,0.3703648,n
+6/7/21,12,amb,0.3769459,n
+6/7/21,13,amb w/ deluge,0.3706016,n
+6/7/21,14,dry w/ deluge,0.379285,n
+6/7/21,15,dry w/ deluge,0.3650027,n
+6/7/21,16,amb w/ deluge,0.3711267,n
+6/7/21,18,amb,0.3638829,n
+6/7/21,19,dry w/ deluge,0.3516783,y
+6/7/21,20,amb w/ deluge,0.3660883,n
+6/7/21,21,amb,0.3731033,n
+6/7/21,22,dry w/ deluge,0.3524774,n
+6/7/21,23,amb,0.3600634,n
+6/7/21,24,amb w/ deluge,0.3631913,n
+6/7/21,26,amb,0.378341,n
+6/7/21,28,amb,0.3442436,n
+6/7/21,29,amb,0.3516442,n
+6/7/21,30,amb w/ deluge,0.3613636,n
+6/7/21,31,amb,0.3507608,n
+6/7/21,32,amb,0.3474706,n
+6/7/21,33,dry w/ deluge,0.3551996,n
+6/7/21,34,amb,0.357953,n
+6/7/21,35,amb,0.3625413,n
+6/7/21,37,amb w/ deluge,0.3626309,n
+6/7/21,38,dry w/ deluge,0.3768463,n
+6/7/21,39,amb,0.3639924,n
+6/7/21,41,dry w/ deluge,0.379215,y
+6/7/21,42,amb,0.3543349,n
+6/7/21,43,amb,0.3646446,n
+6/7/21,44,amb w/ deluge,0.3636929,n
+6/7/21,45,amb,0.3471926,n
+6/7/21,47,amb,0.362626,n
+6/7/21,49,dry w/ deluge,0.3668328,y
+6/7/21,50,amb,0.3625062,n
+6/14/21,2,amb,0.3984566,n
+6/14/21,3,dry w/ deluge,0.4192984,y
+6/14/21,4,amb w/ deluge,0.386639,n
+6/14/21,5,dry w/ deluge,0.3687331,n
+6/14/21,6,amb,0.3756453,n
+6/14/21,9,amb,0.374394,n
+6/14/21,10,amb w/ deluge,0.3831418,n
+6/14/21,11,amb w/ deluge,0.3803397,n
+6/14/21,12,amb,0.3835091,n
+6/14/21,13,amb w/ deluge,0.3881525,n
+6/14/21,14,dry w/ deluge,0.3705249,n
+6/14/21,15,dry w/ deluge,0.3676525,n
+6/14/21,16,amb w/ deluge,0.3833278,n
+6/14/21,18,amb,0.3790898,n
+6/14/21,19,dry w/ deluge,0.3557617,n
+6/14/21,20,amb w/ deluge,0.3761289,n
+6/14/21,21,amb,0.380358,n
+6/14/21,22,dry w/ deluge,0.3626242,n
+6/14/21,23,amb,0.3670251,n
+6/14/21,24,amb w/ deluge,0.3757735,n
+6/14/21,26,amb,0.391328,n
+6/14/21,28,amb,0.3558817,n
+6/14/21,29,amb,0.3637944,n
+6/14/21,30,amb w/ deluge,0.3713801,n
+6/14/21,31,amb,0.3587058,n
+6/14/21,32,amb,0.3578467,n
+6/14/21,33,dry w/ deluge,0.3535582,y
+6/14/21,34,amb,0.3670885,n
+6/14/21,35,amb,0.3748454,n
+6/14/21,37,amb w/ deluge,0.3697259,n
+6/14/21,38,dry w/ deluge,0.3704401,n
+6/14/21,39,amb,0.3707066,n
+6/14/21,41,dry w/ deluge,0.385462,y
+6/14/21,42,amb,0.3681279,n
+6/14/21,43,amb,0.3733959,n
+6/14/21,44,amb w/ deluge,0.3712415,n
+6/14/21,45,amb,0.358165,n
+6/14/21,47,amb,0.379049,n
+6/14/21,49,dry w/ deluge,0.3665644,n
+6/14/21,50,amb,0.3759378,n
+6/21/21,2,amb,0.378115,n
+6/21/21,3,dry w/ deluge,0.3767926,y
+6/21/21,4,amb w/ deluge,0.3681114,n
+6/21/21,5,dry w/ deluge,0.362828,n
+6/21/21,6,amb,0.3638644,n
+6/21/21,9,amb,0.3631712,n
+6/21/21,10,amb w/ deluge,0.355147,n
+6/21/21,11,amb w/ deluge,0.3603263,n
+6/21/21,12,amb,0.3691603,n
+6/21/21,13,amb w/ deluge,0.362762,n
+6/21/21,14,dry w/ deluge,0.3591416,n
+6/21/21,15,dry w/ deluge,0.3520804,y
+6/21/21,16,amb w/ deluge,0.3670298,n
+6/21/21,18,amb,0.3604145,n
+6/21/21,19,dry w/ deluge,0.3473551,n
+6/21/21,20,amb w/ deluge,0.3609997,n
+6/21/21,21,amb,0.3647063,n
+6/21/21,22,dry w/ deluge,0.3597358,n
+6/21/21,23,amb,0.3578026,n
+6/21/21,24,amb w/ deluge,0.3587162,n
+6/21/21,26,amb,0.3638648,n
+6/21/21,28,amb,0.3498378,n
+6/21/21,29,amb,0.3575174,n
+6/21/21,30,amb w/ deluge,0.3565906,n
+6/21/21,31,amb,0.3555989,n
+6/21/21,32,amb,0.3536343,n
+6/21/21,33,dry w/ deluge,0.3549685,n
+6/21/21,34,amb,0.3552747,n
+6/21/21,35,amb,0.3563534,n
+6/21/21,37,amb w/ deluge,0.3567602,n
+6/21/21,38,dry w/ deluge,0.3581726,n
+6/21/21,39,amb,0.3537807,n
+6/21/21,41,dry w/ deluge,0.3741047,n
+6/21/21,42,amb,0.3575359,n
+6/21/21,43,amb,0.3616096,n
+6/21/21,44,amb w/ deluge,0.3616584,n
+6/21/21,45,amb,0.351577,n
+6/21/21,47,amb,0.3633503,n
+6/21/21,49,dry w/ deluge,0.3612445,n
+6/21/21,50,amb,NA,y
+6/27/21,2,amb,0.3814856,n
+6/27/21,3,dry w/ deluge,0.375504,n
+6/27/21,4,amb w/ deluge,0.365605,n
+6/27/21,5,dry w/ deluge,0.3644053,n
+6/27/21,6,amb,0.3559211,n
+6/27/21,9,amb,0.3585448,n
+6/27/21,10,amb w/ deluge,0.350757,n
+6/27/21,11,amb w/ deluge,0.3549072,n
+6/27/21,12,amb,0.3610325,n
+6/27/21,13,amb w/ deluge,0.3545601,n
+6/27/21,14,dry w/ deluge,0.3529527,n
+6/27/21,15,dry w/ deluge,0.3509501,n
+6/27/21,16,amb w/ deluge,0.360625,n
+6/27/21,18,amb,0.3582977,n
+6/27/21,19,dry w/ deluge,0.3442136,n
+6/27/21,20,amb w/ deluge,0.3566862,n
+6/27/21,21,amb,0.3604555,n
+6/27/21,22,dry w/ deluge,0.3627495,n
+6/27/21,23,amb,0.3577419,n
+6/27/21,24,amb w/ deluge,0.3567414,n
+6/27/21,26,amb,0.3646044,n
+6/27/21,28,amb,0.3433286,n
+6/27/21,29,amb,0.3536264,n
+6/27/21,30,amb w/ deluge,NA,y
+6/27/21,31,amb,0.3505379,n
+6/27/21,32,amb,NA,y
+6/27/21,33,dry w/ deluge,0.3505349,n
+6/27/21,34,amb,0.3496599,n
+6/27/21,35,amb,0.3565244,n
+6/27/21,37,amb w/ deluge,0.3494989,n
+6/27/21,38,dry w/ deluge,0.3619362,n
+6/27/21,39,amb,0.3510588,n
+6/27/21,41,dry w/ deluge,0.3690121,n
+6/27/21,42,amb,0.3608634,n
+6/27/21,43,amb,0.3633154,n
+6/27/21,44,amb w/ deluge,0.3615631,n
+6/27/21,45,amb,0.3525432,n
+6/27/21,47,amb,0.3640671,n
+6/27/21,49,dry w/ deluge,0.3608224,n
+6/27/21,50,amb,0.3568687,n
+7/5/21,2,amb,0.3875851,n
+7/5/21,3,dry w/ deluge,0.4067778,y
+7/5/21,4,amb w/ deluge,0.380577,n
+7/5/21,5,dry w/ deluge,NA,y
+7/5/21,6,amb,0.3843283,n
+7/5/21,9,amb,0.3872724,n
+7/5/21,10,amb w/ deluge,0.3679472,n
+7/5/21,11,amb w/ deluge,0.3675812,n
+7/5/21,12,amb,0.3758057,n
+7/5/21,13,amb w/ deluge,0.3839115,n
+7/5/21,14,dry w/ deluge,0.3540573,n
+7/5/21,15,dry w/ deluge,0.3559313,n
+7/5/21,16,amb w/ deluge,0.3817703,n
+7/5/21,18,amb,0.3825366,n
+7/5/21,19,dry w/ deluge,0.3458156,n
+7/5/21,20,amb w/ deluge,0.3701353,n
+7/5/21,21,amb,0.3800044,n
+7/5/21,22,dry w/ deluge,0.3743334,n
+7/5/21,23,amb,NA,y
+7/5/21,24,amb w/ deluge,NA,y
+7/5/21,26,amb,NA,y
+7/5/21,28,amb,0.361798,n
+7/5/21,29,amb,NA,y
+7/5/21,30,amb w/ deluge,0.3823054,n
+7/5/21,31,amb,0.3831211,n
+7/5/21,32,amb,0.3684696,n
+7/5/21,33,dry w/ deluge,0.3694519,n
+7/5/21,34,amb,0.3714146,n
+7/5/21,35,amb,0.3757267,n
+7/5/21,37,amb w/ deluge,0.3684027,n
+7/5/21,38,dry w/ deluge,0.3559102,n
+7/5/21,39,amb,0.3551303,n
+7/5/21,41,dry w/ deluge,0.3679958,n
+7/5/21,42,amb,0.3799936,n
+7/5/21,43,amb,0.374752,n
+7/5/21,44,amb w/ deluge,0.3747173,n
+7/5/21,45,amb,0.3708623,n
+7/5/21,47,amb,0.3872388,n
+7/5/21,49,dry w/ deluge,NA,y
+7/5/21,50,amb,0.3695527,n
+7/12/21,2,amb,0.3836463,n
+7/12/21,3,dry w/ deluge,0.4050146,y
+7/12/21,4,amb w/ deluge,0.3776024,n
+7/12/21,5,dry w/ deluge,0.3560992,n
+7/12/21,6,amb,0.3807018,n
+7/12/21,9,amb,NA,y
+7/12/21,10,amb w/ deluge,0.3672715,n
+7/12/21,11,amb w/ deluge,0.3656674,n
+7/12/21,12,amb,0.3786265,n
+7/12/21,13,amb w/ deluge,0.3939396,n
+7/12/21,14,dry w/ deluge,0.3512209,n
+7/12/21,15,dry w/ deluge,0.3451496,n
+7/12/21,16,amb w/ deluge,0.376767,n
+7/12/21,18,amb,NA,y
+7/12/21,19,dry w/ deluge,0.3505881,n
+7/12/21,20,amb w/ deluge,0.3699422,n
+7/12/21,21,amb,0.3792373,n
+7/12/21,22,dry w/ deluge,0.3707734,n
+7/12/21,23,amb,0.3748982,n
+7/12/21,24,amb w/ deluge,0.3807574,n
+7/12/21,26,amb,0.3706211,n
+7/12/21,28,amb,0.3697105,n
+7/12/21,29,amb,0.3726875,n
+7/12/21,30,amb w/ deluge,0.3862397,n
+7/12/21,31,amb,0.384326,n
+7/12/21,32,amb,0.3845388,n
+7/12/21,33,dry w/ deluge,0.358451,n
+7/12/21,34,amb,0.3758538,n
+7/12/21,35,amb,0.3682607,n
+7/12/21,37,amb w/ deluge,0.3653122,n
+7/12/21,38,dry w/ deluge,0.3553222,n
+7/12/21,39,amb,0.3655073,n
+7/12/21,41,dry w/ deluge,0.3557121,n
+7/12/21,42,amb,0.3852103,n
+7/12/21,43,amb,0.3785652,n
+7/12/21,44,amb w/ deluge,0.3807542,n
+7/12/21,45,amb,0.3654582,n
+7/12/21,47,amb,0.3893551,n
+7/12/21,49,dry w/ deluge,0.3649875,n
+7/12/21,50,amb,0.3704044,n
+7/20/21,2,amb,0.3829787,n
+7/20/21,3,dry w/ deluge,NA,y
+7/20/21,4,amb w/ deluge,0.3899962,n
+7/20/21,5,dry w/ deluge,0.3554772,n
+7/20/21,6,amb,0.3871463,n
+7/20/21,9,amb,0.3949529,n
+7/20/21,10,amb w/ deluge,0.3837332,n
+7/20/21,11,amb w/ deluge,0.3728845,n
+7/20/21,12,amb,0.3820596,n
+7/20/21,13,amb w/ deluge,0.4051123,n
+7/20/21,14,dry w/ deluge,0.3514753,n
+7/20/21,15,dry w/ deluge,0.3500775,n
+7/20/21,16,amb w/ deluge,0.3889443,n
+7/20/21,18,amb,0.3851282,n
+7/20/21,19,dry w/ deluge,0.3519061,n
+7/20/21,20,amb w/ deluge,0.379495,n
+7/20/21,21,amb,0.3767408,n
+7/20/21,22,dry w/ deluge,0.3737913,n
+7/20/21,23,amb,0.3767103,n
+7/20/21,24,amb w/ deluge,NA,y
+7/20/21,26,amb,0.3708766,n
+7/20/21,28,amb,0.3832137,n
+7/20/21,29,amb,0.3751365,n
+7/20/21,30,amb w/ deluge,0.4025211,n
+7/20/21,31,amb,0.3832844,n
+7/20/21,32,amb,NA,y
+7/20/21,33,dry w/ deluge,0.3674473,n
+7/20/21,34,amb,0.3816727,n
+7/20/21,35,amb,0.3685021,n
+7/20/21,37,amb w/ deluge,0.3656875,n
+7/20/21,38,dry w/ deluge,0.3575253,n
+7/20/21,39,amb,0.3712717,n
+7/20/21,41,dry w/ deluge,0.3643539,n
+7/20/21,42,amb,0.3876965,n
+7/20/21,43,amb,0.3759929,n
+7/20/21,44,amb w/ deluge,0.3979517,n
+7/20/21,45,amb,0.3648978,n
+7/20/21,47,amb,0.3881614,n
+7/20/21,49,dry w/ deluge,0.3627573,n
+7/20/21,50,amb,0.369057,n
+7/22/21,2,amb,NA,y
+7/22/21,3,dry w/ deluge,0.4391432,n
+7/22/21,4,amb w/ deluge,0.3974805,n
+7/22/21,5,dry w/ deluge,0.3623585,n
+7/22/21,6,amb,0.3903717,n
+7/22/21,9,amb,0.4030777,n
+7/22/21,10,amb w/ deluge,0.3956997,n
+7/22/21,11,amb w/ deluge,0.3823954,n
+7/22/21,12,amb,0.3864737,n
+7/22/21,13,amb w/ deluge,0.4073768,n
+7/22/21,14,dry w/ deluge,0.357748,n
+7/22/21,15,dry w/ deluge,0.3559758,n
+7/22/21,16,amb w/ deluge,0.3972814,n
+7/22/21,18,amb,0.3881581,n
+7/22/21,19,dry w/ deluge,0.3566907,n
+7/22/21,20,amb w/ deluge,0.387217,n
+7/22/21,21,amb,NA,y
+7/22/21,22,dry w/ deluge,0.3799157,n
+7/22/21,23,amb,0.3758336,n
+7/22/21,24,amb w/ deluge,0.4013381,n
+7/22/21,26,amb,0.3718663,y
+7/22/21,28,amb,0.3930624,n
+7/22/21,29,amb,0.3778024,n
+7/22/21,30,amb w/ deluge,0.4139777,n
+7/22/21,31,amb,0.3851583,n
+7/22/21,32,amb,0.3915252,n
+7/22/21,33,dry w/ deluge,0.3711741,n
+7/22/21,34,amb,0.3824929,n
+7/22/21,35,amb,0.3644063,n
+7/22/21,37,amb w/ deluge,0.3705854,n
+7/22/21,38,dry w/ deluge,0.3593618,n
+7/22/21,39,amb,0.372368,n
+7/22/21,41,dry w/ deluge,0.3667845,n
+7/22/21,42,amb,0.3884883,n
+7/22/21,43,amb,0.3767562,n
+7/22/21,44,amb w/ deluge,0.403141,n
+7/22/21,45,amb,0.3658849,n
+7/22/21,47,amb,0.388651,n
+7/22/21,49,dry w/ deluge,0.3650365,n
+7/22/21,50,amb,0.3754396,n
+7/26/21,2,amb,0.3832669,n
+7/26/21,3,dry w/ deluge,0.4008114,n
+7/26/21,4,amb w/ deluge,0.3845583,n
+7/26/21,5,dry w/ deluge,0.3555814,n
+7/26/21,6,amb,0.377598,n
+7/26/21,9,amb,0.3855058,n
+7/26/21,10,amb w/ deluge,0.3809898,n
+7/26/21,11,amb w/ deluge,0.368089,n
+7/26/21,12,amb,0.3780076,n
+7/26/21,13,amb w/ deluge,0.3921266,n
+7/26/21,14,dry w/ deluge,0.3589654,n
+7/26/21,15,dry w/ deluge,0.3488709,n
+7/26/21,16,amb w/ deluge,0.3890453,n
+7/26/21,18,amb,0.3684597,n
+7/26/21,19,dry w/ deluge,0.3559426,n
+7/26/21,20,amb w/ deluge,NA,y
+7/26/21,21,amb,0.3685881,n
+7/26/21,22,dry w/ deluge,0.3650872,n
+7/26/21,23,amb,NA,y
+7/26/21,24,amb w/ deluge,0.3878526,n
+7/26/21,26,amb,NA,y
+7/26/21,28,amb,0.3776257,n
+7/26/21,29,amb,0.368884,n
+7/26/21,30,amb w/ deluge,NA,y
+7/26/21,31,amb,0.3656369,n
+7/26/21,32,amb,0.3813362,n
+7/26/21,33,dry w/ deluge,0.3744495,n
+7/26/21,34,amb,0.3692737,n
+7/26/21,35,amb,NA,y
+7/26/21,37,amb w/ deluge,NA,y
+7/26/21,38,dry w/ deluge,0.3554555,n
+7/26/21,39,amb,0.3679358,n
+7/26/21,41,dry w/ deluge,0.3644471,n
+7/26/21,42,amb,NA,y
+7/26/21,43,amb,0.3698057,n
+7/26/21,44,amb w/ deluge,0.3928313,n
+7/26/21,45,amb,0.3525261,n
+7/26/21,47,amb,NA,y
+7/26/21,49,dry w/ deluge,0.36073,n
+7/26/21,50,amb,0.3602066,n
+7/29/21,2,amb,0.3654965,n
+7/29/21,3,dry w/ deluge,0.420864,n
+7/29/21,4,amb w/ deluge,0.3895289,n
+7/29/21,5,dry w/ deluge,0.351852,n
+7/29/21,6,amb,0.3794494,n
+7/29/21,9,amb,0.388342,n
+7/29/21,10,amb w/ deluge,0.3916337,n
+7/29/21,11,amb w/ deluge,0.37356,n
+7/29/21,12,amb,0.3798101,n
+7/29/21,13,amb w/ deluge,0.4047006,n
+7/29/21,14,dry w/ deluge,0.3563593,n
+7/29/21,15,dry w/ deluge,0.351031,n
+7/29/21,16,amb w/ deluge,0.3957725,n
+7/29/21,18,amb,0.3657552,n
+7/29/21,19,dry w/ deluge,0.3587983,n
+7/29/21,20,amb w/ deluge,0.378211,n
+7/29/21,21,amb,0.3691115,n
+7/29/21,22,dry w/ deluge,0.3603555,n
+7/29/21,23,amb,0.3702268,n
+7/29/21,24,amb w/ deluge,0.393574,n
+7/29/21,26,amb,0.3606357,n
+7/29/21,28,amb,0.3839817,n
+7/29/21,29,amb,0.3635502,n
+7/29/21,30,amb w/ deluge,0.4050527,n
+7/29/21,31,amb,0.3647815,n
+7/29/21,32,amb,0.3746596,n
+7/29/21,33,dry w/ deluge,0.3686464,n
+7/29/21,34,amb,0.3666674,n
+7/29/21,35,amb,0.3586019,n
+7/29/21,37,amb w/ deluge,0.3709,n
+7/29/21,38,dry w/ deluge,0.3500114,n
+7/29/21,39,amb,0.3658721,n
+7/29/21,41,dry w/ deluge,0.3634517,n
+7/29/21,42,amb,0.3763326,n
+7/29/21,43,amb,0.3664679,n
+7/29/21,44,amb w/ deluge,0.4025307,n
+7/29/21,45,amb,0.3535235,n
+7/29/21,47,amb,0.3749156,n
+7/29/21,49,dry w/ deluge,0.3584226,n
+7/29/21,50,amb,0.3635278,n
+8/1/21,2,amb,0.3629017,n
+8/1/21,3,dry w/ deluge,0.4180824,n
+8/1/21,4,amb w/ deluge,0.3876617,n
+8/1/21,5,dry w/ deluge,0.3458391,n
+8/1/21,6,amb,0.3734211,n
+8/1/21,9,amb,0.3873395,n
+8/1/21,10,amb w/ deluge,0.3873379,n
+8/1/21,11,amb w/ deluge,0.376163,n
+8/1/21,12,amb,0.3757181,n
+8/1/21,13,amb w/ deluge,0.4039217,n
+8/1/21,14,dry w/ deluge,0.3548404,n
+8/1/21,15,dry w/ deluge,0.3470173,n
+8/1/21,16,amb w/ deluge,NA,y
+8/1/21,18,amb,0.3560096,n
+8/1/21,19,dry w/ deluge,0.3602876,n
+8/1/21,20,amb w/ deluge,0.3773636,n
+8/1/21,21,amb,0.3663796,n
+8/1/21,22,dry w/ deluge,0.352979,n
+8/1/21,23,amb,0.3653988,n
+8/1/21,24,amb w/ deluge,0.3907499,n
+8/1/21,26,amb,0.3553156,y
+8/1/21,28,amb,0.3802146,n
+8/1/21,29,amb,0.3629571,n
+8/1/21,30,amb w/ deluge,0.4049328,n
+8/1/21,31,amb,0.3607953,n
+8/1/21,32,amb,0.3736019,n
+8/1/21,33,dry w/ deluge,0.3669262,n
+8/1/21,34,amb,0.3616084,n
+8/1/21,35,amb,0.3530183,n
+8/1/21,37,amb w/ deluge,0.3686642,n
+8/1/21,38,dry w/ deluge,0.3459972,n
+8/1/21,39,amb,0.3669422,n
+8/1/21,41,dry w/ deluge,0.3636433,n
+8/1/21,42,amb,0.3755149,n
+8/1/21,43,amb,0.3603967,n
+8/1/21,44,amb w/ deluge,0.405315,n
+8/1/21,45,amb,0.3473625,n
+8/1/21,47,amb,0.3738171,n
+8/1/21,49,dry w/ deluge,0.354483,n
+8/1/21,50,amb,NA,y
+8/5/21,2,amb,0.3526452,n
+8/5/21,3,dry w/ deluge,0.4095886,n
+8/5/21,4,amb w/ deluge,0.3767692,n
+8/5/21,5,dry w/ deluge,0.3401206,n
+8/5/21,6,amb,0.3644275,n
+8/5/21,9,amb,0.3789008,n
+8/5/21,10,amb w/ deluge,0.3861985,n
+8/5/21,11,amb w/ deluge,0.3678852,n
+8/5/21,12,amb,0.3714006,n
+8/5/21,13,amb w/ deluge,0.3888089,n
+8/5/21,14,dry w/ deluge,0.3439599,n
+8/5/21,15,dry w/ deluge,0.3407858,n
+8/5/21,16,amb w/ deluge,0.3887567,n
+8/5/21,18,amb,0.3468052,n
+8/5/21,19,dry w/ deluge,0.3548328,n
+8/5/21,20,amb w/ deluge,0.3722053,n
+8/5/21,21,amb,0.3612634,n
+8/5/21,22,dry w/ deluge,0.3440859,n
+8/5/21,23,amb,0.3620245,n
+8/5/21,24,amb w/ deluge,0.383362,n
+8/5/21,26,amb,0.3475911,n
+8/5/21,28,amb,0.3746888,n
+8/5/21,29,amb,0.355538,n
+8/5/21,30,amb w/ deluge,0.3938571,n
+8/5/21,31,amb,0.3498983,n
+8/5/21,32,amb,0.3661855,n
+8/5/21,33,dry w/ deluge,0.3557043,n
+8/5/21,34,amb,0.3503754,n
+8/5/21,35,amb,0.3505735,n
+8/5/21,37,amb w/ deluge,0.3603628,n
+8/5/21,38,dry w/ deluge,0.339085,n
+8/5/21,39,amb,0.3638508,n
+8/5/21,41,dry w/ deluge,0.3546602,n
+8/5/21,42,amb,0.36046,n
+8/5/21,43,amb,0.3546892,n
+8/5/21,44,amb w/ deluge,0.3960659,n
+8/5/21,45,amb,0.3444627,n
+8/5/21,47,amb,0.3617903,n
+8/5/21,49,dry w/ deluge,0.3472028,n
+8/5/21,50,amb,0.3476901,n
+8/9/21,2,amb,0.3488939,n
+8/9/21,3,dry w/ deluge,0.3960467,n
+8/9/21,4,amb w/ deluge,0.3605953,n
+8/9/21,5,dry w/ deluge,0.3420037,n
+8/9/21,6,amb,0.3546036,n
+8/9/21,9,amb,0.3622174,n
+8/9/21,10,amb w/ deluge,0.3755344,n
+8/9/21,11,amb w/ deluge,0.3630776,n
+8/9/21,12,amb,0.3737505,n
+8/9/21,13,amb w/ deluge,0.3373717,n
+8/9/21,14,dry w/ deluge,0.3403568,n
+8/9/21,15,dry w/ deluge,0.379694,n
+8/9/21,16,amb w/ deluge,0.3610211,n
+8/9/21,18,amb,0.3432361,n
+8/9/21,19,dry w/ deluge,0.3463098,n
+8/9/21,20,amb w/ deluge,0.3646548,n
+8/9/21,21,amb,0.3545003,n
+8/9/21,22,dry w/ deluge,0.3359388,n
+8/9/21,23,amb,0.3568688,n
+8/9/21,24,amb w/ deluge,0.3666346,n
+8/9/21,26,amb,0.3491876,n
+8/9/21,28,amb,0.3631003,n
+8/9/21,29,amb,0.3493719,n
+8/9/21,30,amb w/ deluge,0.3733917,n
+8/9/21,31,amb,0.3432559,n
+8/9/21,32,amb,0.3491286,n
+8/9/21,33,dry w/ deluge,0.3453702,n
+8/9/21,34,amb,0.3452172,n
+8/9/21,35,amb,0.3465603,n
+8/9/21,37,amb w/ deluge,0.3592909,n
+8/9/21,38,dry w/ deluge,0.3443732,n
+8/9/21,39,amb,0.3551368,n
+8/9/21,41,dry w/ deluge,0.3436177,n
+8/9/21,42,amb,0.3517737,n
+8/9/21,43,amb,0.3551324,n
+8/9/21,44,amb w/ deluge,0.3820057,n
+8/9/21,45,amb,0.3467203,n
+8/9/21,47,amb,0.3625376,n
+8/9/21,49,dry w/ deluge,0.3444942,n
+8/9/21,50,amb,0.3465537,n
+8/13/21,2,amb,0.340966,n
+8/13/21,3,dry w/ deluge,0.3795036,n
+8/13/21,4,amb w/ deluge,0.3579137,n
+8/13/21,5,dry w/ deluge,0.3387441,n
+8/13/21,6,amb,0.3480086,n
+8/13/21,9,amb,0.3552396,n
+8/13/21,10,amb w/ deluge,0.3687442,n
+8/13/21,11,amb w/ deluge,0.3596765,n
+8/13/21,12,amb,0.3592634,n
+8/13/21,13,amb w/ deluge,0.3664459,n
+8/13/21,14,dry w/ deluge,0.3312144,n
+8/13/21,15,dry w/ deluge,0.3413248,n
+8/13/21,16,amb w/ deluge,0.3757382,n
+8/13/21,18,amb,0.3386541,n
+8/13/21,19,dry w/ deluge,0.3463529,n
+8/13/21,20,amb w/ deluge,0.3655553,n
+8/13/21,21,amb,0.3563824,n
+8/13/21,22,dry w/ deluge,0.3387621,n
+8/13/21,23,amb,0.3558984,n
+8/13/21,24,amb w/ deluge,0.3621955,n
+8/13/21,26,amb,0.3449681,n
+8/13/21,28,amb,0.3572341,n
+8/13/21,29,amb,0.3436214,n
+8/13/21,30,amb w/ deluge,0.3603017,n
+8/13/21,31,amb,0.3441133,n
+8/13/21,32,amb,0.3488773,n
+8/13/21,33,dry w/ deluge,0.34425,n
+8/13/21,34,amb,0.3469758,n
+8/13/21,35,amb,0.3441131,n
+8/13/21,37,amb w/ deluge,0.3609534,n
+8/13/21,38,dry w/ deluge,0.340899,n
+8/13/21,39,amb,0.3534704,n
+8/13/21,41,dry w/ deluge,0.3452139,n
+8/13/21,42,amb,0.3454934,n
+8/13/21,43,amb,0.3506532,n
+8/13/21,44,amb w/ deluge,0.3759614,n
+8/13/21,45,amb,0.3432983,n
+8/13/21,47,amb,0.3447612,n
+8/13/21,49,dry w/ deluge,0.3398437,n
+8/13/21,50,amb,0.3419546,n
+8/17/21,2,amb,0.3374743,n
+8/17/21,3,dry w/ deluge,0.3803531,n
+8/17/21,4,amb w/ deluge,0.3519243,n
+8/17/21,5,dry w/ deluge,0.3389842,n
+8/17/21,6,amb,0.3460109,n
+8/17/21,9,amb,0.3551531,n
+8/17/21,10,amb w/ deluge,0.3628974,n
+8/17/21,11,amb w/ deluge,0.357743,n
+8/17/21,12,amb,0.3580689,n
+8/17/21,13,amb w/ deluge,0.3597982,n
+8/17/21,14,dry w/ deluge,0.3331114,n
+8/17/21,15,dry w/ deluge,0.3388277,n
+8/17/21,16,amb w/ deluge,0.3693095,n
+8/17/21,18,amb,0.3337995,n
+8/17/21,19,dry w/ deluge,0.3486335,n
+8/17/21,20,amb w/ deluge,0.3617525,n
+8/17/21,21,amb,0.349409,n
+8/17/21,22,dry w/ deluge,0.3352009,n
+8/17/21,23,amb,0.3583451,n
+8/17/21,24,amb w/ deluge,0.3576209,n
+8/17/21,26,amb,0.3468049,n
+8/17/21,28,amb,0.3484293,n
+8/17/21,29,amb,0.3442404,n
+8/17/21,30,amb w/ deluge,0.3504221,n
+8/17/21,31,amb,0.3394287,n
+8/17/21,32,amb,0.3459668,n
+8/17/21,33,dry w/ deluge,0.3439777,n
+8/17/21,34,amb,0.3428831,n
+8/17/21,35,amb,0.3437025,n
+8/17/21,37,amb w/ deluge,0.3545177,n
+8/17/21,38,dry w/ deluge,0.3367055,n
+8/17/21,39,amb,0.3530036,n
+8/17/21,41,dry w/ deluge,0.3408998,n
+8/17/21,42,amb,0.3429411,n
+8/17/21,43,amb,0.3449611,n
+8/17/21,44,amb w/ deluge,0.3695049,n
+8/17/21,45,amb,0.3463922,n
+8/17/21,47,amb,0.3498573,n
+8/17/21,49,dry w/ deluge,0.3434118,n
+8/17/21,50,amb,0.34445,n
+8/20/21,2,amb,0.3428253,n
+8/20/21,3,dry w/ deluge,0.3604172,n
+8/20/21,4,amb w/ deluge,0.3426011,n
+8/20/21,5,dry w/ deluge,0.3358737,n
+8/20/21,6,amb,0.3422899,n
+8/20/21,9,amb,0.3444778,n
+8/20/21,10,amb w/ deluge,0.3546382,n
+8/20/21,11,amb w/ deluge,0.351982,n
+8/20/21,12,amb,0.3545071,n
+8/20/21,13,amb w/ deluge,0.3527507,n
+8/20/21,14,dry w/ deluge,0.3320042,n
+8/20/21,15,dry w/ deluge,0.3390314,n
+8/20/21,16,amb w/ deluge,0.3585834,n
+8/20/21,18,amb,0.3339883,n
+8/20/21,19,dry w/ deluge,0.3436094,n
+8/20/21,20,amb w/ deluge,0.3512014,n
+8/20/21,21,amb,0.344703,n
+8/20/21,22,dry w/ deluge,0.3304446,n
+8/20/21,23,amb,0.3490316,n
+8/20/21,24,amb w/ deluge,0.351586,n
+8/20/21,26,amb,0.3476103,y
+8/20/21,28,amb,0.3455701,n
+8/20/21,29,amb,0.3363919,n
+8/20/21,30,amb w/ deluge,0.3395013,n
+8/20/21,31,amb,0.3384857,n
+8/20/21,32,amb,0.341534,n
+8/20/21,33,dry w/ deluge,0.3381478,n
+8/20/21,34,amb,0.3393145,n
+8/20/21,35,amb,0.3385073,n
+8/20/21,37,amb w/ deluge,0.3452944,n
+8/20/21,38,dry w/ deluge,0.3344639,n
+8/20/21,39,amb,0.3500438,n
+8/20/21,41,dry w/ deluge,0.3442322,n
+8/20/21,42,amb,0.342257,n
+8/20/21,43,amb,0.3383308,n
+8/20/21,44,amb w/ deluge,0.3541561,n
+8/20/21,45,amb,0.3371914,n
+8/20/21,47,amb,0.3401171,n
+8/20/21,49,dry w/ deluge,0.3347684,n
+8/20/21,50,amb,0.3381704,n
+8/23/21,2,amb,0.3410752,n
+8/23/21,3,dry w/ deluge,0.3615931,n
+8/23/21,4,amb w/ deluge,0.3379513,n
+8/23/21,5,dry w/ deluge,0.3400554,n
+8/23/21,6,amb,0.3346445,n
+8/23/21,9,amb,0.3413822,n
+8/23/21,10,amb w/ deluge,0.3569599,n
+8/23/21,11,amb w/ deluge,0.3493239,n
+8/23/21,12,amb,0.3539781,n
+8/23/21,13,amb w/ deluge,0.3441881,n
+8/23/21,14,dry w/ deluge,0.3325965,n
+8/23/21,15,dry w/ deluge,0.3375861,n
+8/23/21,16,amb w/ deluge,0.3535279,n
+8/23/21,18,amb,0.3273332,n
+8/23/21,19,dry w/ deluge,0.3364967,n
+8/23/21,20,amb w/ deluge,0.3497668,n
+8/23/21,21,amb,0.3461662,n
+8/23/21,22,dry w/ deluge,0.3325488,n
+8/23/21,23,amb,0.3510581,n
+8/23/21,24,amb w/ deluge,0.3449841,n
+8/23/21,26,amb,0.3422727,n
+8/23/21,28,amb,0.3397487,n
+8/23/21,29,amb,0.3349714,n
+8/23/21,30,amb w/ deluge,0.3398106,n
+8/23/21,31,amb,0.3324603,n
+8/23/21,32,amb,0.3421665,n
+8/23/21,33,dry w/ deluge,0.3442238,n
+8/23/21,34,amb,NA,y
+8/23/21,35,amb,0.3451135,n
+8/23/21,37,amb w/ deluge,0.3495268,n
+8/23/21,38,dry w/ deluge,0.3391243,n
+8/23/21,39,amb,0.3441213,n
+8/23/21,41,dry w/ deluge,0.3383827,n
+8/23/21,42,amb,0.3329228,n
+8/23/21,43,amb,0.3486682,n
+8/23/21,44,amb w/ deluge,NA,y
+8/23/21,45,amb,0.3422541,n
+8/23/21,47,amb,0.336676,n
+8/23/21,49,dry w/ deluge,NA,y
+8/23/21,50,amb,0.3389197,n
+8/29/21,2,amb,0.3380182,n
+8/29/21,3,dry w/ deluge,0.3527141,n
+8/29/21,4,amb w/ deluge,0.3419229,n
+8/29/21,5,dry w/ deluge,0.339139,n
+8/29/21,6,amb,0.3411475,n
+8/29/21,9,amb,0.3390822,n
+8/29/21,10,amb w/ deluge,0.3396886,n
+8/29/21,11,amb w/ deluge,0.3546102,n
+8/29/21,12,amb,0.3546166,n
+8/29/21,13,amb w/ deluge,0.3442915,n
+8/29/21,14,dry w/ deluge,0.3355683,n
+8/29/21,15,dry w/ deluge,0.3417825,n
+8/29/21,16,amb w/ deluge,0.3467039,n
+8/29/21,18,amb,0.3350401,n
+8/29/21,19,dry w/ deluge,0.3410721,n
+8/29/21,20,amb w/ deluge,0.3512975,n
+8/29/21,21,amb,0.3406824,n
+8/29/21,22,dry w/ deluge,0.3356074,n
+8/29/21,23,amb,0.3471858,n
+8/29/21,24,amb w/ deluge,0.3435508,n
+8/29/21,26,amb,0.3423413,n
+8/29/21,28,amb,0.341433,n
+8/29/21,29,amb,0.3408548,n
+8/29/21,30,amb w/ deluge,0.337951,n
+8/29/21,31,amb,0.3384421,n
+8/29/21,32,amb,0.3405163,n
+8/29/21,33,dry w/ deluge,0.3406913,n
+8/29/21,34,amb,0.3389035,n
+8/29/21,35,amb,0.341656,n
+8/29/21,37,amb w/ deluge,0.3483115,n
+8/29/21,38,dry w/ deluge,0.3409901,n
+8/29/21,39,amb,0.3480833,n
+8/29/21,41,dry w/ deluge,0.3411109,n
+8/29/21,42,amb,0.3379196,n
+8/29/21,43,amb,0.3406254,n
+8/29/21,44,amb w/ deluge,0.3386724,n
+8/29/21,45,amb,0.3392183,n
+8/29/21,47,amb,0.3410096,n
+8/29/21,49,dry w/ deluge,0.3388426,n
+8/29/21,50,amb,0.3417345,n
+9/3/21,2,amb,0.3355666,n
+9/3/21,3,dry w/ deluge,0.3495081,n
+9/3/21,4,amb w/ deluge,0.3387758,n
+9/3/21,5,dry w/ deluge,0.3326952,n
+9/3/21,6,amb,0.3339993,n
+9/3/21,9,amb,0.3246196,n
+9/3/21,10,amb w/ deluge,0.3373085,n
+9/3/21,11,amb w/ deluge,0.3513416,n
+9/3/21,12,amb,0.3465304,n
+9/3/21,13,amb w/ deluge,0.3393455,n
+9/3/21,14,dry w/ deluge,0.3313231,n
+9/3/21,15,dry w/ deluge,0.3379711,n
+9/3/21,16,amb w/ deluge,NA,y
+9/3/21,18,amb,0.3282002,n
+9/3/21,19,dry w/ deluge,0.3365375,n
+9/3/21,20,amb w/ deluge,NA,y
+9/3/21,21,amb,0.3407261,n
+9/3/21,22,dry w/ deluge,0.3328194,n
+9/3/21,23,amb,0.3441909,n
+9/3/21,24,amb w/ deluge,0.3365047,n
+9/3/21,26,amb,0.3372187,n
+9/3/21,28,amb,0.3433954,n
+9/3/21,29,amb,0.3395972,n
+9/3/21,30,amb w/ deluge,0.3396376,n
+9/3/21,31,amb,0.3400665,n
+9/3/21,32,amb,0.3429499,n
+9/3/21,33,dry w/ deluge,0.3412863,n
+9/3/21,34,amb,0.3427633,n
+9/3/21,35,amb,0.3443405,n
+9/3/21,37,amb w/ deluge,0.3475841,n
+9/3/21,38,dry w/ deluge,NA,y
+9/3/21,39,amb,NA,y
+9/3/21,41,dry w/ deluge,0.3443944,n
+9/3/21,42,amb,0.339149,n
+9/3/21,43,amb,0.3438159,n
+9/3/21,44,amb w/ deluge,0.3375215,n
+9/3/21,45,amb,0.3416874,n
+9/3/21,47,amb,0.3365223,n
+9/3/21,49,dry w/ deluge,0.3403854,n
+9/3/21,50,amb,0.339255,n
