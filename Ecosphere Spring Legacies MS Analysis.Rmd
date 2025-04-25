@@ -1336,6 +1336,33 @@ hist
 
 # ggsave(hist,filename="MS_2021_Fig1_Deluge_hist.pdf",bg="transparent",width=5.5,height=5)
 
+#### calc percentiles ####
+quant.dat<-daily.precip%>%
+  mutate(ymd.date=ymd(new.Date))%>%
+  group_by(year=year(ymd.date),mon=month(ymd.date))%>%
+  filter(ymd.date %within%
+           interval (ymd(paste(first(year),
+                               "04-01",
+                               sep="-")),
+                     ymd(paste(first(year),
+                               "09-15",
+                               sep="-"))))%>%
+  mutate(event_size = case_when(
+    yr %in% c(1990:2019) ~ NOAA_mm2,
+    yr %in% c(2020:2021) ~ usda_20to21,
+    yr %in% c(2022:2024) ~ NOAA_mm2))%>%
+  filter(event_size>=2)
+
+vals<-ecdf(quant.dat$event_size)
+vals(60)
+
+quant.dat<-quant.dat%>%
+  mutate(event_quant=vals(event_size))
+
+# view(quant.dat)
+
+quantile(quant.dat$event_size,c(.25,.5,.75,.98,.99))
+
 ```
 
 
