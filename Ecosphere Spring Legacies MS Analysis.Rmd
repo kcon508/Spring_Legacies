@@ -62,7 +62,7 @@ vwc.dat<-read.csv("SGS_SLs_20cmVWC_all.csv")
 str(vwc.dat) # 1220 observations
 
 # Convert categorical columns
-fact.cols<-c("Plot","Trt","TrtName","NewTrt","Comb.TRT")
+fact.cols<-c("Plot","NewTrt","Comb.TRT")
 
 dat<-vwc.dat%>%
   mutate_at(fact.cols,factor)
@@ -85,7 +85,7 @@ dat<-dat%>%
     new.Date %within% interval ("2021-06-24","2021-07-15") ~ "nat.del.resp",
     new.Date %within% interval ("2021-07-16","2021-08-06") ~ "exp.del.resp",
     new.Date %within% interval ("2021-08-07","2021-09-30") ~ "post.del"))%>%
-  select(new.Date,deluge_period,Plot,NewTrt,Comb.TRT,VWC,Unique_ID,Notes)%>%
+  select(new.Date,deluge_period,Plot,NewTrt,Comb.TRT,VWC,Unique_ID)%>%
   mutate(deluge_period=factor(deluge_period,levels=c("pre.del","nat.del.resp","exp.del.resp","post.del")))%>%
   mutate(NewTrt=factor(NewTrt,levels=c("amb","amb w/ deluge","dry w/ deluge")))%>%
   mutate(Comb.TRT=case_when(
@@ -273,7 +273,7 @@ gcc.dat<-read.csv("SGS_SLs_GCC_all.csv")
 str(gcc.dat) # 960 observations
 
 # Convert categorical columns
-fact.cols<-c("Plot","Trt","TrtName","NewTrt")
+fact.cols<-c("Plot","Drop","NewTrt")
 gcc.dat<-gcc.dat%>%
   mutate_at(fact.cols,factor)
 
@@ -294,7 +294,7 @@ dat<-gcc.dat%>%
     new.Date %within% interval ("2021-06-24","2021-07-15") ~ "nat.del.resp",
     new.Date %within% interval ("2021-07-16","2021-08-06") ~ "exp.del.resp",
     new.Date %within% interval ("2021-08-07","2021-09-30") ~ "post.del"))%>%
-  select(new.Date,deluge_period,Plot,NewTrt,GCC,Unique_ID,Notes)%>%
+  select(new.Date,deluge_period,Plot,NewTrt,GCC,Unique_ID)%>%
   mutate(deluge_period=factor(deluge_period,levels=c("pre.del","nat.del.resp","exp.del.resp","post.del")))%>%
   mutate(Comb.TRT=case_when(
     new.Date %within% interval ("2021-04-01","2021-07-15") & NewTrt %in% c("amb","amb w/ deluge") ~ "amb",
@@ -477,7 +477,7 @@ resp.dat<-read.csv("SGS_SLs_Respiration_all.csv")
 str(resp.dat) # 400 observations
 
 # Convert categorical columns
-fact.cols<-c("Plot","Trt","TrtName","NewTrt")
+fact.cols<-c("Plot","NewTrt")
 resp.dat<-resp.dat%>%
   mutate_at(fact.cols,factor)
 
@@ -497,7 +497,7 @@ resp<-resp.dat%>%
     new.Date %within% interval ("2021-06-24","2021-07-15") ~ "nat.del.resp",
     new.Date %within% interval ("2021-07-16","2021-08-06") ~ "exp.del.resp",
     new.Date %within% interval ("2021-08-07","2021-09-30") ~ "post.del"))%>%
-  select(new.Date,deluge_period,Plot,NewTrt,Target_CO2,Time,Soil_Temp,Efflux,Unique_ID,Notes)%>%
+  select(new.Date,deluge_period,Plot,NewTrt,Soil_Temp,Efflux,Unique_ID,Drop_resp,Drop_temp)%>%
   mutate(deluge_period=factor(deluge_period,levels=c("pre.del","nat.del.resp","exp.del.resp","post.del")))%>%
   mutate(NewTrt=factor(NewTrt,levels=c("amb","amb w/ deluge","dry w/ deluge")))%>%
   
@@ -1358,8 +1358,6 @@ vals(60)
 
 quant.dat<-quant.dat%>%
   mutate(event_quant=vals(event_size))
-
-# view(quant.dat)
 
 quantile(quant.dat$event_size,c(.25,.5,.75,.98,.99))
 
