@@ -145,7 +145,12 @@ cld(emmeans(period.mod.log,pairwise~NewTrt|deluge_period),Letters=letters)
 period.mod.log2<-lmer(log(resp_var)~Comb.TRT*deluge_period+(1|Plot),data=mod_dat)
 anova(period.mod.log2,ddf="Kenward-Roger")
 pairs(emmeans(period.mod.log2,pairwise~Comb.TRT|deluge_period))
+
+# within
 vwc.delperiod.letters<-cld(emmeans(period.mod.log2,pairwise~Comb.TRT|deluge_period),Letter=letters,decreasing=TRUE)
+
+# across
+# vwc.delperiod.letters<-cld(emmeans(period.mod.log2,~Comb.TRT*deluge_period),Letter=letters,decreasing=TRUE)
 
 
 ```
@@ -212,7 +217,7 @@ vwc.plot<-ggplot(data=gr_dat,aes(x=x.var,y=y.var))+
 
 vwc.plot
 
-# ggsave(vwc.plot,filename="MS_SGS_2021_VWC_lines.pdf",bg="transparent",width=11.5,height=5)
+# ggsave(vwc.plot,filename="R1/MS_SGS_2021_VWC_lines.pdf",bg="transparent",width=11.5,height=5)
 
 #### Deluge period bars ####
 ## Get averages and error bars
@@ -262,7 +267,7 @@ vwc.avs.del.periods<-ggplot(data=gr_dat,aes(x=deluge_period,y=av,fill=Comb.TRT,c
 vwc.avs.del.periods
 
 ## Export plot
-# ggsave(vwc.avs.del.periods,filename="MS_SGS_2021_VWC_periodbars.pdf",bg="transparent",height=5,width=5)
+# ggsave(vwc.avs.del.periods,filename="R1/MS_SGS_2021_VWC_periodbars.pdf",bg="transparent",height=5,width=5)
 
 ```
 
@@ -351,7 +356,13 @@ cld(emmeans(period.mod.og,pairwise~NewTrt|deluge_period),Letters=letters)
 period.mod.og2<-lmer(resp_var~Comb.TRT*deluge_period+(1|Plot),data=mod_dat)
 anova(period.mod.og2,ddf="Kenward-Roger")
 pairs(emmeans(period.mod.og2,pairwise~Comb.TRT|deluge_period))
+
+# within
 gcc.delperiod.letters<-cld(emmeans(period.mod.og2,pairwise~Comb.TRT|deluge_period),Letters=letters,decreasing=TRUE)
+
+# across
+# gcc.delperiod.letters<-cld(emmeans(period.mod.og2,~Comb.TRT*deluge_period),Letters=letters,decreasing=TRUE)
+
 ```
 
 ```{r GCC plots}
@@ -417,7 +428,7 @@ gcc.plot<-ggplot(data=gr_dat,aes(x=x.var,y=y.var))+
 
 gcc.plot
 
-# ggsave(gcc.plot,filename="MS_SGS_2021_GCC_lines.pdf",bg="transparent",width=11.5,height=5)
+# ggsave(gcc.plot,filename="R1/MS_SGS_2021_GCC_lines.pdf",bg="transparent",width=11.5,height=5)
 
 
 #### Deluge period bars ####
@@ -467,7 +478,7 @@ gcc.avs.del.periods<-ggplot(data=gr_dat,aes(x=deluge_period,y=av,fill=Comb.TRT,c
 gcc.avs.del.periods
 
 ## Export plot
-# ggsave(gcc.avs.del.periods,filename="MS_SGS_2021_GCC_periodbars.pdf",bg="transparent",width=5,height=5)
+# ggsave(gcc.avs.del.periods,filename="R1/MS_SGS_2021_GCC_periodbars.pdf",bg="transparent",width=5,height=5)
 ```
 
 ### 3. Efflux
@@ -552,7 +563,6 @@ pairs(emmeans(mod.log2,pairwise~Comb.TRT|new.Date))
 cld(emmeans(mod.log2,pairwise~Comb.TRT|new.Date),Letters=letters)
 
 
-
 #### Efflux bars -- deluge periods ####
 period.mod.og<-lmer(resp_var~NewTrt*deluge_period+(1|Plot),data=mod_dat)
 anova(period.mod.og,ddf="Kenward-Roger")
@@ -562,7 +572,13 @@ cld(emmeans(period.mod.og,pairwise~NewTrt|deluge_period),Letters=letters)
 period.mod.og2<-lmer(resp_var~Comb.TRT*deluge_period+(1|Plot),data=mod_dat)
 anova(period.mod.og2,ddf="Kenward-Roger")
 pairs(emmeans(period.mod.og2,pairwise~Comb.TRT|deluge_period))
+
+# within
 efflux.delperiod.letters<-cld(emmeans(period.mod.og2,pairwise~Comb.TRT|deluge_period),Letters=letters)
+
+# across
+# efflux.delperiod.letters<-cld(emmeans(period.mod.og2,~Comb.TRT*deluge_period),Letters=letters)
+
 ```
 
 ```{r Efflux plots}
@@ -629,7 +645,7 @@ efflux.plot<-ggplot(data=gr_dat,aes(x=x.var,y=y.var))+
 
 efflux.plot
 
-# ggsave(efflux.plot,filename="MS_SGS_2021_Efflux_lines.pdf",bg="transparent",width=11.5,height=5)
+# ggsave(efflux.plot,filename="R1/MS_SGS_2021_Efflux_lines.pdf",bg="transparent",width=11.5,height=5)
 
 #### Deluge period bars ####
 ## Get averages and error bars
@@ -678,7 +694,7 @@ efflux.avs.del.periods<-ggplot(data=gr_dat,aes(x=deluge_period,y=av,fill=Comb.TR
 efflux.avs.del.periods
 
 ## Export plot
-# ggsave(efflux.avs.del.periods,filename="MS_SGS_2021_Efflux_periodbars.pdf",bg="transparent",width=4,height=5)
+# ggsave(efflux.avs.del.periods,filename="R1/MS_SGS_2021_Efflux_periodbars.pdf",bg="transparent",width=4,height=5)
 ```
 
 
@@ -807,13 +823,13 @@ anpp.avs<-anpp.all%>%
 
 ## Turn on for Regrowth Plot
 # gr_dat<-subset(anpp.avs,Clip_Type=="July-Sept")
-# name="Plots/MS_Finals/MS_SGS_2021_Regrowth_ANPP_3trts.pdf"
+# name="R1/MS_SGS_2021_Regrowth_ANPP_3trts.pdf"
 # letters<-c("a","b","a")
 
 ## Turn on for Sept Plot
-gr_dat<-subset(anpp.avs,anpp.avs$Clip_Type=="September")
-name="MS_SGS_2021_September_ANPP.pdf"
-letters<-c("ab","a","b")
+# gr_dat<-subset(anpp.avs,anpp.avs$Clip_Type=="September")
+# name="R1/MS_SGS_2021_September_ANPP.pdf"
+# letters<-c("ab","a","b")
 
 anpp.plot<-ggplot(data=gr_dat,aes(x=Comb.TRT,y=av,fill=Comb.TRT,color=Comb.TRT))+
   geom_bar(position=position_dodge(0.75),
@@ -854,7 +870,7 @@ anpp.plot<-ggplot(data=gr_dat,aes(x=Comb.TRT,y=av,fill=Comb.TRT,color=Comb.TRT))
 
 anpp.plot
 
-# ggsave(anpp.plot,filename=name,bg="transparent",width=5,height=5)
+ggsave(anpp.plot,filename=name,bg="transparent",width=5,height=5)
          
 ```
 
@@ -985,6 +1001,13 @@ sentek.dat<-sentek.dat%>%
     Date %within% interval ("2021-05-01","2021-07-15") & Trt == "dry w/ deluge" ~ "dry w/ deluge",
     Date %within% interval ("2021-07-16","2021-09-30") ~ Trt))
   
+sentek.deep<-sentek.dat%>%
+  filter(depth > 70)%>%
+  group_by(Plot,depth,TRT)%>%
+  dplyr::summarise(
+    n=n(),
+    av=mean(VWC)
+  )
 
 #### Sentek by periods and depths ####
 sentek.25<-sentek.dat%>%
@@ -1032,7 +1055,13 @@ cld(emmeans(mod,pairwise~Trt|deluge_period),Letters=letters)
 mod2<-lmer(resp_var~Comb.TRT*deluge_period+(1|Plot),data=mod_dat)
 anova(mod2,ddf="Kenward-Roger") 
 pairs(emmeans(mod2,pairwise~Comb.TRT|deluge_period))
+
+# within
 sentek.delperiod.letters<-cld(emmeans(mod2,pairwise~Comb.TRT|deluge_period),Letters=letters,decreasing=TRUE)
+
+# across
+# sentek.delperiod.letters<-cld(emmeans(mod2,~Comb.TRT*deluge_period),Letters=letters,decreasing=TRUE)
+
 ```
 
 ```{r Sentek plots}
@@ -1081,7 +1110,7 @@ sentek.avs.del.periods<-ggplot(data=gr_dat,aes(x=deluge_period,y=av,fill=Comb.TR
 sentek.avs.del.periods
 
 ## Export plot
-# ggsave(sentek.avs.del.periods,filename="MS_SGS_2021_Sentek_periodbars.pdf",bg="transparent",width=5,height=5)
+# ggsave(sentek.avs.del.periods,filename="R1/MS_SGS_2021_Sentek_periodbars.pdf",bg="transparent",width=5,height=5)
 
 
 #### Sentek Heatmaps ####
@@ -1126,7 +1155,7 @@ sentek_avs<-ggplot(allsm.trts.1, aes(Date, depth)) +
 sentek_avs
 
 ## Export heatmap by trts 
-# ggsave(sentek_avs,filename="MS_SGS_2021_sentek_heatmap.pdf",width=10,height=3.5)
+# ggsave(sentek_avs,filename="R1/MS_SGS_2021_sentek_heatmap.pdf",width=10,height=3.5)
 ```
 
 ### 7. Precipitation
@@ -1278,7 +1307,7 @@ monthly.precip.bars<-ggplot(data=gr_dat,color=col,group=col)+
 
 monthly.precip.bars
 
-# ggsave(monthly.precip.bars,filename="MS_2021_Fig1_Precip_bars.pdf",bg="transparent",width=9,height=5)
+# ggsave(monthly.precip.bars,filename="R1/MS_2021_Fig1_Precip_bars.pdf",bg="transparent",width=9,height=5)
 
 #### precip deluge distributions ####
 precip_20plus<-daily.precip%>%
@@ -1334,7 +1363,7 @@ hist<-ggplot(aes(x=total_precip),data=gr_dat)+
 
 hist
 
-# ggsave(hist,filename="MS_2021_Fig1_Deluge_hist.pdf",bg="transparent",width=5.5,height=5)
+# ggsave(hist,filename="R1/MS_2021_Fig1_Deluge_hist.pdf",bg="transparent",width=5.5,height=5)
 
 #### calc percentiles ####
 quant.dat<-daily.precip%>%
