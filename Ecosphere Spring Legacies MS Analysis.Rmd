@@ -822,9 +822,9 @@ anpp.avs<-anpp.all%>%
     GROUP="ANPP")
 
 ## Turn on for Regrowth Plot
-# gr_dat<-subset(anpp.avs,Clip_Type=="July-Sept")
-# name="R1/MS_SGS_2021_Regrowth_ANPP_3trts.pdf"
-# letters<-c("a","b","a")
+gr_dat<-subset(anpp.avs,Clip_Type=="July-Sept")
+name="R1/MS_SGS_2021_Regrowth_ANPP_3trts.pdf"
+letters<-c("a","b","a")
 
 ## Turn on for Sept Plot
 # gr_dat<-subset(anpp.avs,anpp.avs$Clip_Type=="September")
@@ -844,22 +844,22 @@ anpp.plot<-ggplot(data=gr_dat,aes(x=Comb.TRT,y=av,fill=Comb.TRT,color=Comb.TRT))
   scale_color_discrete(name="",
                        type=c("#698696","#1f2d40","#ab4e37"))+
   labs(y=expression(paste(bold("Aboveground biomass (g m"^-2*")"))),x="",
-       # title="Mid to Late ANPP" # on for regrowth
-       title="End of Season ANPP" # on for Sept
+       title="Mid to Late ANPP" # on for regrowth
+       # title="End of Season ANPP" # on for Sept
        )+
   scale_x_discrete(
     labels=c("A","A+De","Dr+De")
   )+
   scale_y_continuous(
-    # limits=c(0,41), # on for regrowth
-    limits=c(0,151), # on for Sept
-    breaks=c(0,25,50,75,100,125,150), # on for Sept
+    limits=c(0,41), # on for regrowth
+    # limits=c(0,151), # on for Sept
+    # breaks=c(0,25,50,75,100,125,150), # on for Sept
     expand=c(0,0)
   )+
   plot_theme+
   geom_text(aes(label=letters,
-                y=av+SE+7 # on for Sept
-                # y=av+SE+1.5 # on for regrowth
+                # y=av+SE+7 # on for Sept
+                y=av+SE+1.5 # on for regrowth
                 ),
             position=position_dodge(0.75),size=6.5,color="black")+
   theme(axis.ticks.x=element_blank(),
@@ -870,8 +870,183 @@ anpp.plot<-ggplot(data=gr_dat,aes(x=Comb.TRT,y=av,fill=Comb.TRT,color=Comb.TRT))
 
 anpp.plot
 
-ggsave(anpp.plot,filename=name,bg="transparent",width=5,height=5)
+# ggsave(anpp.plot,filename=name,bg="transparent",width=5,height=5)
          
+```
+
+```{r ANPP all functional groups}
+funct.groups<-read.csv("/Users/Kathy/Desktop/SGS Research/SGS Legacies/Final Data/SGS_ANPP_Scaled_Final_2021 KVC.csv")
+str(funct.groups)
+
+fact.cols<-c("Plot","Clip_Type","TRT","Comb.TRT")
+
+funct.groups<-funct.groups%>%
+  mutate_at(fact.cols,factor)
+
+funct.groups$Unique_ID<-paste(funct.groups$Clip_Type,
+                         "Plot",
+                         funct.groups$Plot,
+                         sep="_")
+
+## Bonferroni outlier tests ##
+#### July Alone ####
+funct.july<-funct.groups%>%
+  filter(Clip_Type == "clip")
+
+## 1. save outliers ##
+# funct.july$group<-funct.july$ANPP
+# funct.july$group<-funct.july$C3.grasses
+# funct.july$group<-funct.july$C4
+# funct.july$group<-funct.july$FORB
+# funct.july$group<-funct.july$ANNUALS
+
+
+out.check<-lm(group~Comb.TRT,data=funct.july)
+outlierTest(out.check,n.max=Inf,cutoff=0.05) # only row 1 outlier
+
+# ANPP
+# outs<-funct.july[c(1),]
+# sig.outs<-outs$Unique_ID
+# 
+# ANPP.no.out<-funct.july%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(ANPP.no.out) # 39 observations
+
+# C3.grasses
+# outs<-funct.july[c(37),]
+# sig.outs<-outs$Unique_ID
+# 
+# C3.no.out<-funct.july%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(C3.no.out) # 39 observations
+
+# C4 grasses
+# outs<-funct.july[c(30),]
+# sig.outs<-outs$Unique_ID
+# 
+# C4.no.out<-funct.july%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(C4.no.out) # 39 observations
+
+# Forbs -- ONLY group with same outlier as ANPP
+# outs<-funct.july[c(1),]
+# sig.outs<-outs$Unique_ID
+# 
+# Forb.no.out<-funct.july%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(Forb.no.out) # 39 observations
+
+# Annuals
+# outs<-funct.july[c(32),]
+# sig.outs<-outs$Unique_ID
+# 
+# Ann.no.out<-funct.july%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(Ann.no.out) # 39 observations
+
+
+#### Sept Alone ####
+funct.sept<-funct.groups%>%
+  filter(Clip_Type == "clip2")
+
+## 1. save outliers ##
+# funct.sept$group<-funct.sept$ANPP
+# funct.sept$group<-funct.sept$C3.grasses
+# funct.sept$group<-funct.sept$C4
+# funct.sept$group<-funct.sept$FORB
+funct.sept$group<-funct.sept$ANNUALS
+
+
+out.check<-lm(group~Comb.TRT,data=funct.sept)
+outlierTest(out.check,n.max=Inf,cutoff=0.05) 
+
+# ANPP -  NO groups same outlier as ANPP
+# outs<-funct.sept[c(2),]
+# sig.outs<-outs$Unique_ID
+# 
+# S.ANPP.no.out<-funct.sept%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(S.ANPP.no.out) # 39 observations
+
+# C3.grasses
+# outs<-funct.sept[c(37),]
+# sig.outs<-outs$Unique_ID
+# 
+# S.C3.no.out<-funct.sept%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(S.C3.no.out) # 39 observations
+
+# C4 grasses
+# S.C4.no.out<-funct.sept
+# str(S.C4.no.out) # 39 observations
+
+# Forbs 
+# outs<-funct.sept[c(36,24),]
+# sig.outs<-outs$Unique_ID
+# 
+# S.Forb.no.out<-funct.sept%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(S.Forb.no.out) # 38 observations
+
+# Annuals
+# outs<-funct.sept[c(7),]
+# sig.outs<-outs$Unique_ID
+# 
+# S.Ann.no.out<-funct.sept%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(S.Ann.no.out) # 39 observations
+
+#### Regrowth Alone ####
+funct.re<-funct.groups%>%
+  filter(Clip_Type == "reclip")
+
+## 1. save outliers ##
+# funct.re$group<-funct.re$ANPP
+# funct.re$group<-funct.re$C3.grasses
+# funct.re$group<-funct.re$C4
+# funct.re$group<-funct.re$FORB
+funct.sept$group<-funct.re$ANNUALS
+
+
+out.check<-lm(group~Comb.TRT,data=funct.re)
+outlierTest(out.check,n.max=Inf,cutoff=0.05) 
+
+# ANPP 
+# outs<-funct.re[c(13),]
+# sig.outs<-outs$Unique_ID
+# 
+# re.ANPP.no.out<-funct.re%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(re.ANPP.no.out) # 39 observations
+
+# C3.grasses 
+# outs<-funct.re[c(2),]
+# sig.outs<-outs$Unique_ID
+# 
+# re.C3.no.out<-funct.re%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(re.C3.no.out) # 39 observations
+
+# C4 grasses -- no outliers
+# re.C4.no.out<-funct.re
+# str(re.C4.no.out) # 40 observations
+
+# Forbs 
+# outs<-funct.re[c(13),]
+# sig.outs<-outs$Unique_ID
+# 
+# re.Forb.no.out<-funct.re%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(re.Forb.no.out) # 39 observations
+
+# Annuals
+# outs<-funct.re[c(13),]
+# sig.outs<-outs$Unique_ID
+# 
+# re.Ann.no.out<-funct.re%>%
+#   filter(!Unique_ID %in% sig.outs)
+# str(re.Ann.no.out) # 39 observations
+
 ```
 
 ### 5. PRS N
@@ -967,7 +1142,7 @@ NO3.plot<-ggplot(data=gr_dat,aes(x=TRT,y=av,fill=TRT,color=TRT))+
 
 NO3.plot
 
-# ggsave(NO3.plot,filename="SGS_2021_MS_NO3.pdf",bg="transparent",width=5,height=5)
+# ggsave(NO3.plot,filename="R1/SGS_2021_MS_NO3.pdf",bg="transparent",width=5,height=5)
 
 ```
 
